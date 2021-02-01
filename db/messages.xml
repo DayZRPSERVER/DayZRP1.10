@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+<!--
+See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
+	
+Example messages:
+    
+1) following message will be displayed to every player in countdown manner
+    and shuts down server in 10 hours from its start
+
+    <message>
+        <deadline>600</deadline>
+        <shutdown>1</shutdown>
+        <text>This server (#name) will shutdown in #tmin minutes.</text>
+    </message>-->
+ 
+ <!--
+2) following message will be displayed every 15 minutes to every player-->
+
+    <message>
+        <repeat>15</repeat>
+        <text> 1/21リスポン位置追加・その他隠し木箱追記他修正　</text>
+    </message>
+ 
+ <!--
+3) following message will be displayed every 50 minutes to every player
+	and 10 minutes after player connect-->
+		
+    <message>
+        <delay>20</delay>
+        <repeat>50</repeat>
+        <onconnect>1</onconnect>
+        <text>スポーン調整中</text>
+    </message>
+ 
+ <!--
+4) following message will be displayed once
+	and 2 minutes after player connect-->
+    
+    <message>
+        <delay>2</delay>
+        <onconnect>1</onconnect>
+        <text>Welcome to #name  拠点を作成する場合問題回避の為共用Mapへ記入お願い致します。　Contact twitter@dayzjpn</text>
+    </message>
+	
+	
+</messages>

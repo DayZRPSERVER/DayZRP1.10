@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4290351729">
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="12920" z="8095" r="120"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="13350" z="12945" r="110"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="13575" z="14032.5" r="120"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="5" dmax="10" x="12975" z="14520" r="140"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="5" dmax="10" x="12712.5" z="14677.5" r="160"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="5" dmax="10" x="12465" z="14820" r="100"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="12847.5" z="15075" r="120"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="13057.5" z="14970" r="120"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="14025" z="15052.5" r="140"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="1" dmax="5" x="11902.5" z="12502.5" r="110"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="5" dmax="10" x="11595" z="12435" r="90"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="1" dmax="5" x="11737.5" z="12180" r="60"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="1" dmax="5" x="11985" z="11985" r="90"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="12352.5" z="10995" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="12300" z="10837.5" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="4" dmax="8" x="12230" z="7325" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="12075" z="7250" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="11210" z="6565" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="4" dmax="8" x="11390" z="6585" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="4" dmax="8" x="11585" z="6610" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="4" dmax="8" x="12080" z="6325" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="4" dmax="8" x="12260" z="6270" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="4" dmax="8" x="12960" z="6760" r="100"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="4" dmax="8" x="13343.3" z="5431.67" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="4" dmax="8" x="12905.8" z="7087.57" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="13182.1" z="7120.47" r="100"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="4" dmax="8" x="12945" z="6265" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="13386.9" z="6309.15" r="100"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="12020" z="3505" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="12198.2" z="3519.78" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="5" dmax="10" x="10175" z="2285" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="5" dmax="10" x="10509.2" z="2097.5" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="9621.7" z="1960.83" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="5" dmax="10" x="10291.7" z="2860.83" r="100"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="5" dmax="10" x="10228.4" z="2500" r="120"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="9384.2" z="2014.58" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="9185" z="3845" r="130"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="4" dmax="8" x="9111.9" z="4064.04" r="90"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="8046.07" z="3330.71" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="4400" z="2470" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="6191.88" z="2940.63" r="160"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="4548.75" z="2573.75" r="100"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="4890" z="2826.25" r="100"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="4523.75" z="2357.5" r="80"/>
+        <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="6464.38" z="3076.25" r="120"/>
+    </territory>
+    <territory color="1124502272">
+        <zone name="InfectedArmy" smin="3" smax="5" dmin="6" dmax="13" x="7992.86" z="14634.2" r="100"/> <!-- Troitskoe-->
+        <zone name="InfectedArmy" smin="4" smax="8" dmin="5" dmax="13" x="7827.86" z="14750.3" r="100"/> <!-- NW Troitskoe -->
+        <zone name="InfectedArmy" smin="4" smax="8" dmin="6" dmax="13" x="1673.04" z="14335.34" r="80"/> <!-- N Tisy-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="6" x="620.333" z="13648.7" r="75"/> <!-- Far W Tisy-->
+        <zone name="InfectedArmy" smin="4" smax="8" dmin="6" dmax="14" x="1526.72" z="13597.43" r="100"/> <!-- S Tisy Compound Military Tents-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="1821" z="13816" r="80"/> <!-- S Tisy Ramps-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="6" x="1064" z="13897.5" r="80"/> <!-- W Tisy-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="12" x="1427" z="14453" r="80"/> <!-- NW Tisy 2 Barracks-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="0" dmax="1" x="2085.73" z="3487.81" r="60"/> <!-- N Pavlovo Single Barracks-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="0" dmax="1" x="1954.49" z="3403.71" r="60"/> <!-- W Pavlovo Single Barracks-->
+        <zone name="InfectedArmy" smin="4" smax="8" dmin="5" dmax="14" x="2184.23" z="3371.54" r="80"/> <!-- Pavlovo Military Base By Hospital-->
+        <zone name="InfectedArmy" smin="4" smax="8" dmin="6" dmax="12" x="4519.75" z="8303.5" r="90"/> <!-- Dichina Military Base Barracks-->
+        <zone name="InfectedArmy" smin="4" smax="8" dmin="5" dmax="10" x="1158.25" z="7236.92" r="80"/> <!-- W of Myshkino Military-->
+        <zone name="InfectedArmy" smin="4" smax="8" dmin="3" dmax="7" x="4866.70" z="2589.48" r="80"/> <!-- W Balota AF-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="10" x="2526.62" z="5111.41" r="100"/> <!-- Zelenogorsk Barracks-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="2703" z="6757.38" r="80"/> <!-- Pass Sosnovy-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="7" dmax="15" x="6333" z="7806" r="100"/> <!-- Stary Sobor Military Tents-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="3705" z="5982" r="80"/> <!-- Green Mountain-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="12" x="770" z="1876" r="60"/> <!-- Far W of Kamenka Military Tents-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="10" x="338" z="9368" r="80"/> <!-- SW Zabolotye-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="10" x="13622" z="13756" r="70"/> <!-- N Svetloyarsk Military Tents-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="10" x="5794" z="3072" r="70"/> <!-- W Novoselki Military Tents-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="12" x="10451.47" z="5954.33" r="80"/> <!-- E Pass Oreshka Military Tents-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="12" x="10450" z="9150" r="60"/> <!-- E Gorka Military Tents-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="8" x="7105.71" z="12715.7" r="60"/> <!-- W Severograd11-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="10" x="9555" z="11808.8" r="60"/> <!-- E Gvozdno Military Tents-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="10224" z="4029" r="60"/> <!-- N Topolka Dam-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="3357.5" z="15185" r="60"/> <!-- Grozovoy Pass-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="1" dmax="4" x="3090" z="9990" r="60"/> <!-- Lopatino Nothing here?-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4063.29" z="11645.1" r="80"/> <!-- Far N of NWAF Compound by Forests-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="5368.35" z="9884.52" r="80"/> <!-- SE NWAF Boot Camp course-->
+		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="14" x="4627.5" z="10492.5" r="80"/> <!-- NWAF ATC-->
+		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="14" x="5309.53" z="9804.80" r="80"/> <!-- SE NWAF By 3 Barracks-->
+		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="15" x="4843.36" z="10333.20" r="80"/> <!-- NWAF S of ATC-->
+		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="12" x="4297.96" z="10161.12" r="80"/> <!-- W NWAF 2 Barracks-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4937.14" z="10446.4" r="80"/> <!-- NWAF E Entrance from Grishino-->
+		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="12" x="4214.18" z="11041.8" r="90"/> <!-- N NWAF Tents-->
+		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="10" x="4446.22" z="10838.75" r="90"/> <!-- NWAF Industrial by 1 barracks-->
+		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="10" x="4132.69" z="10550.01" r="80"/> <!-- W NWAF Prison by 1 barracks-->
+		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="14" x="4567.26" z="9528.69" r="80"/> <!-- SW NWAF Military Compound-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="12" x="4007.14" z="11843.6" r="80"/> <!-- Far N of NWAF Barracks | BEGIN ADDITIONAL MILITARY SPAWNS | -->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="8" x="3999.01" z="11806.11" r="80"/> <!-- Far N of NWAF Barracks-->
+		<zone name="InfectedArmy" smin="5" smax="5" dmin="10" dmax="12" x="4494.83" z="9577.30" r="100"/> <!-- SW NWAF compound W Side-->
+		<zone name="InfectedArmy" smin="7" smax="7" dmin="10" dmax="12" x="4625.11" z="9594.80" r="100"/> <!-- SW NWAF compound E Side-->
+		<zone name="InfectedArmy" smin="7" smax="7" dmin="10" dmax="12" x="4559.48" z="9660.43" r="100"/> <!-- SW NWAF compound N Side-->
+		<zone name="InfectedArmy" smin="7" smax="7" dmin="10" dmax="8" x="4219.70" z="10350.21" r="70"/> <!-- W NWAF 1 Barracks-->
+		<zone name="InfectedArmy" smin="7" smax="7" dmin="10" dmax="10" x="5058.22" z="9823.76" r="90"/> <!-- SE NWAF 2 Barracks-->
+		<zone name="InfectedArmy" smin="4" smax="4" dmin="10" dmax="10" x="4752.46" z="10619.03" r="100"/> <!-- E NWAF 1 Barracks /garages-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="4048.11" z="10922.85" r="70"/> <!-- NWAF Plane Crash-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="11932.61" z="12492.50" r="120"/> <!-- NEAF Airstrip-->
+        <zone name="InfectedArmy" smin="3" smax="5" dmin="5" dmax="10" x="11861.64" z="12478.40" r="100"/> <!-- NEAF ATC-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="14" x="4891.49" z="2463.09" r="100"/> <!-- Balota terminal-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="10" x="5245.422" z="2178.55" r="80"/> <!-- Balota Far East Camo Towers-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="12" x="5079.422" z="2295.55" r="60"/> <!-- Balota Military Tents SE of Terminal-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="10" x="1447.00" z="13698.54" r="60"/> <!-- Tisy South compound Military Tents-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="8" x="1723.59" z="14234.23" r="70"/> <!-- Tisy Prison-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="10" x="2124.14" z="3342.46" r="80"/> <!-- Pavlovo Military Base-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="10" x="7883.90" z="14693.60" r="80"/> <!-- Troitskoe-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="10" x="2600.02" z="1305.66" r="60"/> <!-- Prison island military-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="6" x="13307.78" z="6133.21" r="50"/> <!-- Solnichy Quarry 1 barracks-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="2512.57" z="5075.39" r="90"/> <!-- Zeleno military Barracks-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="2481.42" z="5178.98" r="80"/> <!-- Zeleno military crates-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="12" x="7241.66" z="3038.28" r="60"/> <!--Cherno military tents-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="12" x="4930.86" z="12980.55" r="70"/> <!--Zaprudnoe Barracks-->
+		<zone name="InfectedArmyus" smin="0" smax="0" dmin="3" dmax="10" x="7423.37" z="2690.98" r="30"/><!--Darkzone-->
+		<zone name="InfectedArmyus" smin="0" smax="0" dmin="3" dmax="10" x="7425.12" z="2608.82" r="30"/><!--Darkzone-->
+		<zone name="InfectedArmyus" smin="0" smax="0" dmin="3" dmax="10" x="7510.68" z="2802.68" r="30"/><!--Darkzone-->
+		<zone name="InfectedArmyus" smin="0" smax="0" dmin="3" dmax="10" x="7555.79" z="2913.23" r="30"/><!--Darkzone-->
+		<zone name="InfectedArmyus" smin="0" smax="0" dmin="3" dmax="10" x="7596.62" z="2927.81" r="30"/><!--Darkzone-->
+		<zone name="InfectedArmyus" smin="0" smax="0" dmin="3" dmax="10" x="7612.66" z="2976.42" r="30"/><!--Darkzone-->
+    </territory>
+    <territory color="1136576269">
+        <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="15" x="6680.81" z="2591.91" r="90"/> <!--Cherno E of Police Station-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="15" x="6329.46" z="2556.07" r="90"/> <!--SW Cherno Grocery-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="5" dmax="13" x="6315.75" z="2649.27" r="90"/> <!--Cherno Factory-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="7" dmax="15" x="6484.91" z="2417.88" r="90"/> <!--Cherno By Church-->
+		<zone name="InfectedCity" smin="0" smax="0" dmin="7" dmax="15" x="10133.56" z="2089.76" r="90"/> <!--W Elektro--><!-- セーフ -->
+		<zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="14" x="10384.39" z="2207.39" r="90"/> <!--Elektro Past Firestation--><!-- セーフ -->
+		<zone name="InfectedCity" smin="0" smax="0" dmin="5" dmax="12" x="10085.5" z="1883.76" r="80"/> <!--Elektro Docks--><!-- セーフ -->
+		<zone name="InfectedCity" smin="0" smax="0" dmin="7" dmax="15" x="10494.1" z="2294.12" r="80"/> <!--Middle of Elektro--><!-- セーフ -->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="5" dmax="12" x="12211.7" z="9732.79" r="80"/> <!--Berezino School--><!---->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="14" x="11951.4" z="9098.72" r="80"/> <!--Berezino Crane--><!---->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="14" x="12890.3" z="10072.1" r="80"/> <!--Middle of Lumber Mill-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="13" x="12727.5" z="9845" r="90"/> <!--Lumber Mill Factories-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="10" x="12657.5" z="9502.5" r="90"/> <!--Lumber Mill Orchards-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="5" dmax="13" x="12170" z="9477" r="80"/> <!--Town between Berezino and Lumber Mill-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="5" dmax="13" x="12387.5" z="9545" r="80"/> <!--Town between Berezino and Lumber Mill-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="8" x="7765.09" z="12650.8" r="80"/> <!--Severograd By Police Station-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="8" x="8041.88" z="12730.21" r="80"/> <!--Severograd By Hospital-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="15" x="3357.72" z="13141.2" r="80"/> <!--Novaya Petrovka W of Clinic-->
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="2713.29" z="5393.36" r="80"/> <!--Zelenogorsk Police Station-->
+		<zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="5" x="2695.13" z="5148.38" r="80"/> <!--Zelenogorsk By Clinic-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="5" x="13844.1" z="13275.6" r="80"/> <!--Svetlojarsk N of Police Station-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="14" x="14028.17" z="13207.57" r="80"/> <!--Svetlojarsk Church-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="7" dmax="15" x="11624.42" z="14491.38" r="80"/> <!--N Novodmitrovsk Near PD-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="7" dmax="14" x="10892.84" z="14364.51" r="80"/> <!--W Novodmitrovsk Near Water Pump-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="13" x="6119.37" z="3252.53" r="80"/> <!--Novoselki-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="5" dmax="12" x="6688.59" z="3537.39" r="80"/> <!--Dubky Apartment Buildings-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="5" dmax="12" x="6555.40" z="3569.96" r="90"/> <!--W Dubky by Grocery-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="12" x="5814.10" z="2514.13" r="90"/> <!--Vysotovo Center of Apartments-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="10" x="5446.25" z="2710" r="80"/> <!--NW Vysotovo Buildings-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="10" x="5665.35" z="2499.06" r="90"/> <!--Vysotovo by School-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="10" x="5685" z="2370" r="80"/> <!--S Vystovo By car spawn -->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="15" x="3394.31" z="12934.37" r="90"/> <!--S Nova Petrovka Near PD-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="7" dmax="14" x="12120" z="13749" r="90"/> <!--Middle of Cernaya Polana-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="13" x="11048.6" z="12372.9" r="80"/> <!--Krasnostav Church | BEGIN ADDITIONAL CITY SPAWNS | -->
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="16" x="10485.01" z="2346.42" r="60"/> <!--DYNAMIC HOT ZONE Elektro Town Square--><!-- セーフ -->
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="10519.52" z="2256.98" r="60"/> <!--Elektro Middle of City--><!-- セーフ -->
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="10441.75" z="2112.60" r="60"/> <!--Elektro West Entrance--><!-- セーフ -->
+
+    </territory>
+    <territory color="4289244426">
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="10140.85" z="2057.19" r="60"/> <!--Elektro Train Station--><!-- セーフ -->
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="10085.5" z="1883.76" r="60"/> <!--Elektro Industrial by docks--><!-- セーフ -->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="16" x="6572" z="2442" r="60"/> <!--Cherno Clocktower-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="6795.04" z="2592.88" r="60"/> <!--Cherno Docks-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="6658.45" z="2503.92" r="60"/> <!--Cherno By Police Station-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="6495.12" z="2675.52" r="60"/> <!--Cherno Factory Area-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="6402.28" z="2277.88" r="60"/> <!--Cherno S of Church-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="6396.93" z="2606.49" r="60"/><!--Cherno S of Hospital-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="10" x="6530.12" z="2313.85" r="60"/> <!--Cherno By water pump-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="6832.29" z="3656.07" r="60"/> <!--Dubky Office Buildings-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="6117.6" z="3131.65" r="60"/> <!--Novoselky apts-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="5851.79" z="2592.5" r="60"/> <!--Vysotovo Middle-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="12004" z="9174.80" r="60"/> <!--DYNAMIC HOT ZONE Berezino City Entrance--><!---->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="12846.47" z="10152.85" r="60"/> <!--Lumber mill, center-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="12727.5" z="9845" r="60"/> <!--Lumber Mill SW-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="12004.55" z="9050.36" r="60"/><!----> <!--Berezino City-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="12047.33" z="9106.75" r="60"/> <!--Berezino Near PD--><!---->
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="2664.42" z="5191.55" r="60"/> <!--Zeleno By Grocery-->
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="2734.67" z="5279.61" r="60"/> <!--Zeleno Middle-->
+		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="2793.00" z="5393.36" r="60"/> <!--Zeleno N Entrance-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="8" x="7849.39" z="12658.26" r="60"/> <!--Severograd Main Road-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="8" x="8118.20" z="12713.68" r="60"/> <!--Severograd Near Hospital-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="3357.72" z="13141.2" r="60"/> <!--Nova Petrovka North-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="3408.89" z="13042.29" r="60"/> <!--Novaya Petrovka Central Area-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="13867.27" z="13214.37" r="60"/> <!--Svetlojarsk Police Station-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="14038.38" z="13140.97" r="60"/> <!--Svetlojarsk Office Bldg-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="11609.84" z="14672.21" r="60"/> <!--Novodmitrovsk Northern Square-->
+        <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="11747.40" z="14384.44" r="60"/> <!--Novodmitrovsk Middle-->
+    </territory>
+    <territory color="1794965508">
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="8" x="6636.79" z="2578.75" r="40"/> <!--Cherno PD-->
+		<zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="7" x="10455" z="2265" r="40"/> <!--Elektro PD--><!-- セーフ -->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="6" x="12920.6" z="10188" r="40"/> <!--Lumber Mill PD-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="6" x="13824" z="13215" r="40"/> <!--Svetlojarsk PD-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="5" x="9537" z="8814" r="40"/> <!--Gorka PD-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="6" x="11490" z="14482.5" r="40"/> <!--Novodmitrovsk PD-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="5" x="11070" z="12480" r="40"/> <!--Krasnostav PD-->
+		<zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="5" x="7161.43" z="7671.43" r="40"/> <!--Novy Sobor PD-->
+		<zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="6" x="2714.26" z="5376.83" r="40"/> <!--Zelenogorsk PD-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="1" dmax="4" x="6005.14" z="10336.3" r="40"/> <!--Grishino PD-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="6" x="7736.67" z="12630" r="40"/> <!--Severograd PD-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="5" x="3426.67" z="13010" r="40"/> <!--Novaya Petrovka PD-->
+		<zone name="InfectedPolice" smin="0" smax="0" dmin="1" dmax="4" x="3729.76" z="8935" r="40"/> <!--Vybor PD-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="5" x="12062" z="3592.25" r="40"/> <!--Kamyshovo PD-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="1" dmax="4" x="11186.7" z="6586.67" r="40"/> <!--Dolina PD-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="1" dmax="1" x="10155.92" z="5510.99" r="40"/> <!--Staroye PD-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="5" x="6213.36" z="2928.93" r="40"/> <!--Novoselki PD-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="1" dmax="4" x="5854.93" z="4672.46" r="40"/> <!--Nadezhdino PD-->
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="2" dmax="5" x="3562.98" z="2441.70" r="40"/> <!--Komarovo PD-->
+    </territory>
+    <territory color="1289674462">
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="10" dmax="20" x="2698.18" z="1285.76" r="150"/>
+    </territory>
+    <territory color="1790009876">
+        <zone name="InfectedFirefighter" smin="0" smax="0" dmin="1" dmax="3" x="6502.79" z="2335.25" r="40"/> <!--Cherno Plane Crash-->
+		<zone name="InfectedFirefighter" smin="0" smax="0" dmin="2" dmax="5" x="10282.5" z="2176.25" r="40"/> <!--Elektro Fire Station--><!-- セーフ -->
+        <zone name="InfectedFirefighter" smin="0" smax="0" dmin="2" dmax="5" x="12807" z="9975" r="40"/> <!--Lumber Mill Fire Station-->
+        <zone name="InfectedFirefighter" smin="0" smax="0" dmin="1" dmax="4" x="12183" z="13869.4" r="40"/> <!--Cernaya Polana Fire Station-->
+        <zone name="InfectedFirefighter" smin="0" smax="0" dmin="2" dmax="6" x="7626.67" z="12643.3" r="40"/> <!--Severograd Fire Station-->
+		<zone name="InfectedFirefighter" smin="0" smax="0" dmin="2" dmax="6" x="2597.11" z="5066.69" r="40"/> <!--Zelenogorsk Fire Station-->
+        <zone name="InfectedFirefighter" smin="0" smax="0" dmin="2" dmax="6" x="6278.81" z="2707.60" r="40"/> <!--Cherno Fire Station-->
+    </territory>
+    <territory color="4292911615">
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="13099.73" z="10308.41" r="80"/> <!-- N Lumber Mill Containers-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="13012.5" z="10050" r="80"/> <!-- Lumber Mill Gas Station-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="12924.73" z="9988.06" r="70"/> <!-- Lumber Mill by Firestation-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="1" dmax="3" x="13138.13" z="14932.77" r="80"/> <!-- Dobroe Farm-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="14112.27" z="13300.41" r="80"/> <!-- Svetlojarsk Docks-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="1" dmax="3" x="12577.5" z="13807.5" r="50"/> <!-- Cernaya Polana E Car Spawn-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="6" x="9726.70" z="13844.86" r="70"/> <!-- Svergino Industrial-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="0" dmax="1" x="7066.29" z="14543.88" r="50"/> <!-- E Kamensk-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="7742.93" z="14829.71" r="80"/> <!-- NW Troitskoe Mil Base Industrial-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="6" x="5041.69" z="12986.39" r="80"/> <!-- Zaprudnoe Farms-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="3815.27" z="13020.90" r="70"/> <!-- Novaya Petrovka S of Church-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="7" x="2900" z="12612.5" r="80"/> <!-- Topolniki Garages-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="1542.5" z="14062.5" r="60"/> <!-- Tisy Mil Base Industrial-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="2055" z="12170" r="70"/> <!-- Industrial Between Sinistok/Topolniki-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="5" x="9840" z="8747.14" r="80"/> <!-- Gorka Industrial-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="7" x="11464.01" z="7503.07" r="80"/> <!-- Orlovets Factory-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="1" dmax="4" x="12467.5" z="12537.5" r="60"/> <!-- NEAF Industrial-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="7" x="11907.5" z="12470" r="90"/> <!-- NEAF By ATC-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="8" x="11254.02" z="12244.10" r="90"/> <!-- Krasnostav By Church-->
+    </territory>
+    <territory color="1102461653">
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="5204.05" z="9826.67" r="80"/> <!-- SE NWAF Industrial-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="4785" z="10560" r="80"/> <!-- Middle of NWAF Industrial-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="4522.54" z="10825.63" r="80"/> <!-- NWAF Gas Station-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="4869.13" z="10279.24" r="80"/> <!-- NWAF By Hangar-->
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="4" x="2244.20" z="5189.19" r="80"/> <!-- W Zelenogorsk Train Station-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="6" x="3621" z="2202" r="50"/> <!-- Komarovo Docks-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="6" x="5148" z="2355" r="80"/> <!-- Balota Airstrip-->
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="8" x="10897.71" z="2725.59" r="70"/> <!-- Elektro Drakon Containers--><!-- セーフ -->
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="4" dmax="10" x="10421.82" z="2507.81" r="70"/> <!-- Elektro Power Plant--><!-- セーフ -->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="7" x="13376.80" z="6084.12" r="80"/> <!-- Solnechniy Quarry Factories-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="4" dmax="8" x="13105" z="7095" r="70"/> <!-- Solnichniy Factory-->
+        <!--<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="6" x="12295" z="9110" r="70"/>--> <!-- Berezino Farms-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="12791.54" z="9672.58" r="80"/> <!-- Middle of Lumber Mill Industrial-->
+    </territory>
+    <territory color="4287731209">
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="12210" z="9735" r="150"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="12725.8" z="9847.21" r="140"/>
+        <!--<zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="11949.7" z="9100.93" r="180"/>-->
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="2" dmax="5" x="12168.3" z="9477.21" r="100"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="12888.6" z="10074.3" r="130"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="2" dmax="5" x="12655.8" z="9504.71" r="100"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="2" dmax="5" x="12385.8" z="9547.21" r="100"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="10" dmax="15" x="13845" z="13282.5" r="120"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="8" dmax="8" x="14076.4" z="13204.7" r="120"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="10325" z="2130" r="100"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="10" dmax="15" x="10494.8" z="2298.41" r="130"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="10078.6" z="2116.08" r="130"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="10" dmax="15" x="10086.2" z="1888.05" r="100"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="5680" z="2372.5" r="100"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="6466.43" z="2364.29" r="160"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="5441.25" z="2715" r="100"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="5583.75" z="2560" r="100"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="6827.29" z="3661.07" r="120"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="5846.79" z="2597.5" r="160"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="2" dmax="5" x="6425.84" z="2772.25" r="140"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="6596" z="3607" r="120"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="6704.29" z="2570.92" r="160"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="6324.46" z="2561.07" r="100"/>
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="6158.01" z="3279.41" r="180"/>
+    </territory>
+    <territory color="2387830984">
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="3" dmax="8" x="6487.12" z="2722.55" r="50"/> <!--Cherno Hospital-->
+		<zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="5" x="2740.16" z="5180.91" r="40"/> <!--Zelenogorsk Clinic--><!-- セーフ -->
+		<zone name="InfectedMedic" smin="0" smax="0" dmin="3" dmax="7" x="10283.9" z="2286.79" r="50"/> <!--Elektro Hospital--><!-- セーフ -->
+	    <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="4" x="12780" z="10056" r="40"/> <!--Lumber Mill Clinic-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="6" x="11924.6" z="9069.43" r="50"/> <!--Berezino Hospital--><!---->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="5" x="13880.40" z="13128.82" r="40"/> <!--Svetlojarsk Clinic-->
+		<zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="4" x="9480" z="8841" r="40"/> <!--Gorka Clinic-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="3" dmax="8" x="11415" z="14611.1" r="40"/> <!--Novodmitrovsk Hospital-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="4" x="11271.4" z="12153.8" r="40"/> <!--Krasnostav Clinic-->
+		<zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="4" x="5987.14" z="7680" r="40"/> <!--Stary Sobor Clinic-->
+		<zone name="InfectedMedic" smin="0" smax="0" dmin="3" dmax="8" x="8010" z="12753.3" r="50"/> <!--Severograd Hospital-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="5" x="3463.33" z="13160" r="40"/> <!--Novaya Petrovka Clinic-->
+		<zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="4" x="3767.63" z="8992.51" r="40"/> <!--Vybor Clinic-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="2" dmax="5" x="2174.61" z="3359.61" r="50"/> <!--Pavlovo Military Hospital-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="2" x="10352.5" z="3459.5" r="40"/> <!--Topolka Dam Clinic-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="4" x="13405" z="6318.93" r="40"/> <!--Solnechniy Clinic-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="3" x="8552.5" z="13978.6" r="40"/> <!--Troitskoe Clinic-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="3" x="8120" z="11017.5" r="40"/> <!--S Gvodzno Clinic-->
+		<zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="3" x="7278.43" z="7061.24" r="40"/> <!--S Novy Sobor Clinic-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="3" x="3673.33" z="14845" r="40"/> <!--Tisy Clinic-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="2" x="7059.16" z="4309.09" r="40"/> <!--Ozerko Clinic-->
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="1" x="10096.13" z="5511.97" r="40"/> <!--Staroye Clinic-->
+    </territory>
+    <territory color="1910952871">
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="10710" z="10840" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1752" z="5087" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="6767.5" z="5592.5" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="5408.24" z="5487.35" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="8395" z="4945" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="5900" z="11265" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="6435" z="14965" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="4510" z="12920" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3965" z="12550" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="4895" z="11815" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="5260" z="10525" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="10525.7" z="7007.14" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="9745.71" z="13105.7" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="11255" z="4275" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="7220" z="6990" r="120"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="8120" z="10985" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="9745" z="13905" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="5364.55" z="3722.73" r="160"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2588.57" z="3458.57" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2756.67" z="3093.33" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3978" z="4728" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3231" z="6114" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2268" z="6255" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1956" z="7042" r="90"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2179.67" z="7903.33" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1971.33" z="9153.33" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2748" z="9504" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3102" z="9210" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3326.57" z="11237.1" r="120"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="204" z="12513" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2580" z="14825" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3192.5" z="15292.5" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2882.5" z="15167.5" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3042.5" z="15212.5" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2260" z="15242.5" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3705" z="14827.5" r="90"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="4492.5" z="15227.5" r="90"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="4352.5" z="13720" r="90"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="5185" z="14940" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="5652.5" z="14567.5" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="5437.5" z="14540" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3987" z="13938" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="4587" z="11610" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="4173" z="12111" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3633" z="8064" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="5523" z="7257" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3696" z="8262" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="7422" z="9105" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="6907.5" z="11415" r="90"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="7233.75" z="11332.5" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="7848.75" z="11553.8" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="6566.25" z="5595" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="6015" z="5606.25" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="7065" z="4308.75" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="6258.75" z="3783.75" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="7" dmax="13" x="10312.5" z="3502.5" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="7" dmax="13" x="9277.5" z="4961.25" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="8366.25" z="5981.25" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="11515.5" z="5020.5" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="12180" z="5049" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="12297" z="5586" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="12621" z="5730" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="12915" z="5619" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="13215" z="5436" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="12306" z="8433" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="9780" z="7785" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="9084" z="8043" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="13472.7" z="3291.82" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="13579.1" z="3054.55" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="13472.7" z="2833.64" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="13860" z="2888.18" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="11657.3" z="7323.86" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3480" z="3806.25" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="10215" z="12036" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="10956" z="13383" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="14266.7" z="14852.6" r="120"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="15153" z="13842" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="14817" z="14577" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="13167" z="13113" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="11501.2" z="10631.2" r="110"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="13503.8" z="12142.5" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="10931.2" z="9105" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="12608.6" z="4393.93" r="90"/>
+      <!--  <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="13267.5" z="3955" r="100"/>-->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="12858.9" z="4441.43" r="90"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="589.286" z="5427.86" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="535.714" z="5262.86" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="289.286" z="5297.86" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1075.71" z="6625.71" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1215.54" z="8775" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1570.71" z="8952.86" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2014.29" z="9840" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1907.14" z="12010.7" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2539.29" z="11940" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2359.29" z="11796.4" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2035.71" z="11340" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1077" z="9999" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1575" z="10440.8" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1278" z="10044" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="161.25" z="10417.5" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="270" z="6603.75" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="213.75" z="7481.25" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="663.75" z="5696.25" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3595" z="6965" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1164" z="4590" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="417" z="5163" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="261" z="3774" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1116" z="2394" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="4930" z="14887.5" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3300" z="15007.5" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="11035" z="6665" r="100"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3005" z="6732.5" r="80"/>
+    </territory>
+    <territory color="4290483455">
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="7072.61" z="2819.89" r="90"/> <!-- Cherno Garages by Railroad-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="8" x="7535.86" z="3169.41" r="80"/> <!--Chyornaya Bay By Guardhouse-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="7287" z="3276" r="90"/> <!-- Railroad Above Cherno Military Tents-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="8" x="10264.32" z="1853.51" r="80"/> <!-- Elektro Containers--><!-- セーフ -->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="8" x="7914.53" z="3032.32" r="90"/> <!-- E Chyornaya Bay Containers-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="12015.24" z="14352.84" r="90"/> <!-- Novodmitrovsk Factory Areas-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="12370" z="14285" r="80"/> <!-- Novodmitrovsk Garages-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="4" dmax="10" x="11710.95" z="14270.69" r="90"/> <!-- Middle of Novodmitrovsk Garages-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="10622.5" z="14335" r="90"/> <!-- Far W of Novodmitrovsk Garages-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="7" x="13965" z="13433.8" r="80"/> <!-- Svetlojarsk Train Station-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="6" x="987.857" z="7614.64" r="90"/> <!-- Far W of Myskino Industrial-->
+		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="6" x="4105" z="8921.67" r="60"/> <!-- Vybor Industrial-->
+    </territory>
+    <territory color="2809946700">
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="15" x="6022.53" z="7788.68" r="100"/> <!-- Stary Sobor-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="10" x="7142.12" z="7693.63" r="100"/> <!-- Novy Sobor-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="3819.64" z="8925.91" r="110"/> <!-- NW Vybor-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="7" x="5953.61" z="10305.49" r="60"/> <!-- Grishino-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="1" x="9943.50" z="5462.38" r="100"/> <!-- W Staroye Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="15" x="9455.94" z="8805.84" r="100"/> <!-- Center of Gorka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="10713.47" z="8096.12" r="100"/> <!-- N Polana By Church-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="13" x="2739.09" z="9972.27" r="100"/> <!-- Lopatino Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="2201.42" z="11117.30" r="100"/> <!-- Vavilovo By Water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="11210.27" z="14375.69" r="80"/> <!-- Novodmitrovsk SW Factory Areas-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="9773.63" z="8798.09" r="80"/> <!-- E Gorka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4742.26" z="6772.94" r="100"/> <!-- Rogovo Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4458" z="6417.86" r="80"/> <!-- Pogorevka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="6" x="7542.66" z="5144.95" r="100"/> <!-- Mogilevka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4386.43" z="4649.61" r="100"/> <!-- Kozlovka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="1" x="1691.99" z="3841.21" r="100"/> <!-- Pavlovo Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="5" x="3624.43" z="2464.71" r="80"/> <!-- Komarovo Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="5" x="5332.86" z="8585.15" r="80"/> <!-- Kabanino Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="5" x="3081.26" z="79.80.92" r="80"/> <!-- N Pushtoshka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="5" x="3004.29" z="7790.86" r="80"/> <!-- S Pushtoshka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="5885" z="4860" r="80"/> <!-- N Nadezhdinor-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4922.77" z="5660.67" r="80"/> <!-- Pulkovo Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="9155.53" z="3901.00" r="80"/> <!-- Pusta Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="9649.89" z="6554.19" r="80"/> <!-- Shakhovka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="15" x="13402.08" z="6276.62" r="80"/> <!-- N Solnechiy-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="13565.6" z="14018.6" r="80"/> <!-- S Turovo by water pump-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4962.46" z="15100.96" r="80"/> <!-- Stary Yar by water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="5901.82" z="13551.8" r="80"/> <!-- N Polesovo by water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="13" x="1902" z="2244" r="80"/> <!-- Kamenka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="13" x="2840.16" z="12375.35" r="70"/> <!-- Topolniki By Bar-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="12073.6" z="7249.24" r="70"/> <!-- Orlovets Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="13" x="12937.86" z="8053.35" r="90"/> <!-- Nizhnoye by water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="10" x="2007.5" z="7310" r="80"/> <!-- Myshkino Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="6257.42" z="12693.26" r="70"/> <!-- Ratnoe Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="5049.47" z="13022.36" r="70"/> <!-- E Zaprudnoe Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="14" x="12049.76" z="3515.52" r="80"/> <!-- Kamyshovo by Docks-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="7" x="3300.49" z="3945.24" r="80"/> <!-- Bor Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="0" dmax="1" x="6671.58" z="14471.45" r="80"/> <!-- Kamensk by Grocery-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="10" x="8510" z="13970" r="80"/> <!-- SE of Troitskoe By 2 Barracks-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="7535" z="13505" r="80"/> <!-- Troitskoe Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="1" x="6745" z="14350" r="70"/> <!-- Kamensk Fields-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="8753.53" z="11641.32" r="80"/> <!-- S Gvozdno by Grocery-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="8155.83" z="11563.3" r="80"/> <!-- Small Village SW of Gvozdno-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="10535" z="9695" r="80"/> <!-- S Dubrovka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="7" x="10275" z="9530" r="80"/> <!-- SW Dubrovka Farms-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="15" x="6120.83" z="7713.07" r="100"/> <!-- E Stary Sobor-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="11210" z="6565" r="80"/> <!-- W Dolina By Police Station-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="12465" z="14815" r="80"/> <!-- W Karmanovka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="12652.52" z="14674.16" r="100"/> <!-- Karmanovka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="12972" z="14519.1" r="80"/> <!-- E Karmanovka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="9142.5" z="14507.5" r="60"/> <!-- W Nagornoe-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="9270" z="13620" r="60"/> <!-- SW Svergino-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="14" x="9474.90" z="13777.29" r="80"/> <!--Svergino Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="8430.76" z="12759.37" r="50"/> <!-- E Severograd Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="6" dmax="14" x="10986.18" z="12401.60" r="100"/> <!-- W Krasnostav-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="6546.16" z="6073.91" r="80"/> <!-- Vyshnoye Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="7607.31" z="5161.00" r="80"/> <!-- E Mogilevka Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="5855.42" z="4696.76" r="70"/> <!-- S Nadezhdino By Police Station-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="14" x="4408.31" z="2489.82" r="70"/> <!-- W Balota by water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="4478.79" z="2385.31" r="70"/> <!-- SE Balota by car spawn-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="1740" z="2200" r="70"/> <!-- W Kamenka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="13" x="2485" z="6360" r="80"/> <!-- Sosnovka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="12" x="3040" z="12600" r="80"/> <!-- NE Topolniki by Grocery-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="13" x="2836.27" z="12369.51" r="80"/> <!--Topolniki Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="1521.86" z="11986.95" r="100"/> <!-- Sinistok Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="3440" z="12710" r="80"/> <!-- S Novaya Petrovka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="14" x="11965" z="13870" r="80"/> <!-- NW Cernaya Polana-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="15" x="12095.94" z="13633.88" r="90"/> <!-- S Cernaya Polana-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="14" x="12290.37" z="10891.25" r="90"/> <!-- Khelm Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="4396.25" z="3932.5" r="60"/> <!-- S of Kozlovska-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="3389.09" z="4934.5" r="60"/> <!-- Drozhino Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="8422.01" z="6656.27" r="70"/> <!-- Guglovo Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="9978.98" z="10372.09" r="80"/> <!-- Vyshnaya Dubrovka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="9645" z="10440" r="80"/> <!-- W Vyshnaya Dubrovka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="13" x="10656.60" z="8017.38" r="70"/> <!-- S Polana-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="11301.65" z="5481.34" r="70"/> <!-- Msta by water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="1" x="10295" z="5530" r="60"/> <!-- NE Staroye-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="6947.19" z="7725.71" r="80"/> <!-- W Novy Sobor Farms-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="13" x="10195.30" z="2522.39" r="90"/> <!-- Elektro School--><!-- セーフ -->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="6" dmax="14" x="10188.49" z="2353.71" r="90"/> <!-- Village Below Elektro School--><!-- セーフ -->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="14" x="10539.94" z="2146.15" r="80"/> <!-- Elektro Village by Shore--><!-- セーフ -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="8052.58" z="12510.00" r="80"/> <!-- S Severograd-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="1272" z="12019" r="80"/> <!-- W Sinistok-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="4" x="3212.5" z="13715" r="60"/> <!-- NW Novaya Petrovka Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="3430" z="14810" r="60"/> <!-- Tisy-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="3538" z="14220" r="70"/> <!-- S Tisy Farm-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="4145" z="13135" r="80"/> <!-- E Novaya Petrovka Garages-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="12" x="3678.67" z="13090.90" r="80"/> <!-- Novaya Petrovka Church-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="5415" z="12675" r="80"/> <!-- Far W of Ratnoe-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="5059.68" z="12758.40" r="80"/> <!-- Far SE of Zaprudnoe Garages-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="7" x="5640" z="13120" r="80"/> <!-- S Polesovo Farms-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="5765" z="15220" r="80"/> <!-- E of Stary Yar Garages-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="5192.38" z="14996.45" r="80"/> <!-- E Stary Yar-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="4892.46" z="15056.73" r="80"/> <!-- SW Stary Yar-->
+	    <zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="14" x="10730" z="14377.5" r="80"/> <!-- W Novodmitrovsk by water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="9399.55" z="14559.44" r="80"/> <!-- Nagornoe Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="12" x="13336" z="12927" r="80"/> <!-- Olsha Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="12287.46" z="10876.67" r="80"/> <!--Khelm Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="6480" z="6170" r="80"/> <!-- NW Vyshnoye Farm-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="4" x="5850" z="3970" r="80"/> <!-- Houses S of Nadezhdino-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="5894.31" z="10165.49" r="70"/> <!-- S Grishino Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="2448.85" z="10992.85" r="80"/> <!-- E Vavilovo-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="10422.9" z="9840" r="80"/> <!--Dubrovka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="6380" z="12705" r="80"/> <!-- E Ratnoe-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="6" x="4701.18" z="6338.82" r="80"/> <!-- Pogorevka Gas Station-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="4748.09" z="6689.32" r="80"/> <!-- S Rogovo-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="7" x="2514" z="9648" r="60"/> <!-- SW Lopatino-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="14" x="3853.18" z="8835.50" r="80"/> <!-- SE Vybor-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="4" x="3666" z="8571" r="60"/> <!-- Houses S of Vybor-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="8611.10" z="11877.57" r="80"/> <!-- Gvozdno Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="8472.08" z="12050.14" r="80"/> <!-- Gvozdno N of Church-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="8226.60" z="12208.12" r="70"/> <!-- S Severograd Village by Church-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="5" x="7608.75" z="12870" r="80"/> <!-- NW Severograd Farm-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="7980" z="13046.2" r="80"/> <!-- Mamino Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="7488.75" z="13773.8" r="80"/> <!-- N  of Troitskoe Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="7691.41" z="13286.80" r="80"/> <!-- Kalinivka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="5" x="6798.75" z="12570" r="60"/> <!-- Houses E of Ratnoe-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="9470.52" z="2011.01" r="80"/> <!-- W Elektro Gas Station--><!-- セーフ -->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="10" x="9607.60" z="1988.16" r="80"/> <!-- W Elektro Garages--><!-- セーフ -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="8015.15" z="3331.28" r="70"/> <!-- Prigorodki Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="1" x="10125" z="5460" r="70"/> <!--Staroye Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="11372.62" z="5510.51" r="60"/> <!-- N Msta-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="11294.36" z="6574.12" r="80"/> <!-- Center Dolina-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="11568.8" z="6607.5" r="80"/> <!-- E Dolina-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="12181.98" z="6275.16" r="60"/> <!-- E Dolina Outskirts-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="12286.49" z="6248.91" r="60"/> <!-- E Dolina Outskirts-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="13368" z="5424" r="50"/> <!-- Three Valleys by the coast-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="12943.8" z="6266.57" r="60"/> <!-- Solnechniy Factory Heading inland-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="12231" z="7323" r="80"/> <!-- Orlovets Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="13" x="12196.4" z="3523.64" r="60"/> <!-- E Kamyshovo-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="9113.33" z="4063.33" r="70"/> <!-- N Pusta-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4886.25" z="2823.75" r="60"/> <!-- N Balota Airstrip Bar-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="4545" z="2576.25" r="60"/> <!-- N Balota-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="15" x="11508.24" z="14294.02" r="70"/> <!-- Lower Novodmitrovsk-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="12849.4" z="15073.7" r="70"/> <!-- NW Dobroe-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="13112.37" z="14939.09" r="80"/> <!-- E Dobroe -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="14062.69" z="15034.37" r="80"/> <!-- Belaya Polana water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="11640" z="15087" r="70"/> <!-- Smirnovo Garages-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="13" x="11445" z="14904" r="80"/> <!-- Smirnovo by Church-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="10435.2" z="8855.36" r="50"/> <!-- Gorka Gas Station-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="12942.72" z="6759.32" r="60"/> <!-- SW Solnichniy-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="11592.9" z="12432.9" r="80"/> <!-- NE Krasnostav-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="4" x="11753.6" z="12171.4" r="50"/> <!-- Far E Krasnostav-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="6525.26" z="3058.57" r="80"/> <!-- Cherno Near Roundabout-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="13" x="6193.13" z="2938.13" r="80"/> <!-- S Novoselki by Police Station-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="7" x="1370" z="4067.5" r="70"/> <!-- NW Pavlovo Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="729" z="4605" r="50"/> <!-- SE Svir-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="318" z="4608" r="50"/> <!-- SW Svir-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="8" x="909" z="2004" r="60"/> <!-- Bay Tikhaya Car Pile up-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="195" z="2385" r="50"/> <!-- SW Corner of map-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="10297.5" z="2860" r="80"/> <!-- N of Elektro Power Plant--><!-- セーフ -->
+	    <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="11966.63" z="12030.21" r="70"/> <!-- S of Krasnostav Airstrip Bar-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="10" x="11132.49" z="12303.89" r="80"/> <!-- Kranostav by Grocery-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="15" x="11198.60" z="12168.75" r="90"/> <!-- Krasnostav Center of Town-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="11640" z="14097.5" r="60"/> <!-- Novodmitrovsk Train Tracks-->
+    </territory>
+    <territory color="1291845632">
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="4" x="10584" z="2481" r="50"/> <!--Elektro Church--><!-- セーフ -->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="5" x="6489" z="2382" r="50"/> <!--Cherno Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="1" x="1719" z="3840" r="50"/> <!--Pavlovo Church-->
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="4" x="2745" z="5424" r="50"/> <!--Zelenogorsk Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="4509" z="6411" r="50"/> <!--Pogorevka Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="5400" z="5490" r="50"/> <!--Pulkovo Church-->
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="4" x="6090" z="7788" r="50"/> <!--Stary Sobor Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="5241" z="8574" r="50"/> <!--Kabanino Church-->
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="4" x="7062" z="7722" r="50"/> <!--Novy Sobor Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="2969.46" z="8041.68" r="50"/> <!--Pushtoshka Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="2715" z="10002" r="50"/> <!--Lopatino Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="2256" z="9306" r="50"/> <!--Bogatyrka Church-->
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="9474" z="8832" r="50"/> <!--Gorka Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="10701" z="8067" r="50"/> <!--Polana Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="9579" z="6822" r="50"/> <!--Shakhovka Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="1" x="10074" z="5514" r="50"/> <!--Staroye Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="12111" z="7260" r="50"/> <!--Orlovets Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="13035" z="10530" r="50"/> <!--Lumber Mill Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="4" x="13959" z="13188" r="50"/> <!--Svetlojarsk Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="13350" z="12894" r="50"/> <!--Olsha Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="13488" z="14181" r="50"/> <!--Turovo Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="11381.37" z="15070.34" r="50"/> <!--Smirnovo Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="7749" z="13281" r="50"/> <!--Kalinivka Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="6564" z="15000" r="50"/> <!--Krasnoe Church-->
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="5025" z="15129" r="50"/> <!--Stary Yar Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="4" x="3624" z="13113" r="50"/> <!--Novaya Petrovka Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="2616" z="15201" r="50"/> <!--Grozovoy Pass Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="1476" z="11940" r="50"/> <!--Sinistok Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="8572.5" z="11966.3" r="50"/> <!--Gvozdno Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="8182.5" z="12348.8" r="50"/> <!--S Severograd Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="2" x="7953.75" z="11955" r="50"/> <!--SW Severograd Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="8748.75" z="12607.5" r="50"/> <!--SE Severograd Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="10972.5" z="12285" r="50"/> <!--W Kranostav Church-->
+        <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="11223.8" z="12213.8" r="50"/> <!--E Kranostav Church-->
+	    </territory>	
+    <territory color="4288247901">
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="15" x="6022.53" z="7788.68" r="100"/> <!-- Stary Sobor-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="10" x="7142.12" z="7693.63" r="100"/> <!-- Novy Sobor-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="3819.64" z="8925.91" r="110"/> <!-- NW Vybor-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="7" x="5953.61" z="10305.49" r="60"/> <!-- Grishino-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="1" x="9943.50" z="5462.38" r="100"/> <!-- W Staroye Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="15" x="9455.94" z="8805.84" r="100"/> <!-- Center of Gorka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="10713.47" z="8096.12" r="100"/> <!-- N Polana By Church-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="13" x="2739.09" z="9972.27" r="100"/> <!-- Lopatino Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="2201.42" z="11117.30" r="100"/> <!-- Vavilovo By Water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="11210.27" z="14375.69" r="80"/> <!-- Novodmitrovsk SW Factory Areas-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="9773.63" z="8798.09" r="80"/> <!-- E Gorka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4742.26" z="6772.94" r="100"/> <!-- Rogovo Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4458" z="6417.86" r="80"/> <!-- Pogorevka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="6" x="7542.66" z="5144.95" r="100"/> <!-- Mogilevka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4386.43" z="4649.61" r="100"/> <!-- Kozlovka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="1" x="1691.99" z="3841.21" r="100"/> <!-- Pavlovo Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="5" x="3624.43" z="2464.71" r="80"/> <!-- Komarovo Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="5" x="5332.86" z="8585.15" r="80"/> <!-- Kabanino Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="5" x="3081.26" z="79.80.92" r="80"/> <!-- N Pushtoshka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="5" x="3004.29" z="7790.86" r="80"/> <!-- S Pushtoshka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="5885" z="4860" r="80"/> <!-- N Nadezhdinor-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4922.77" z="5660.67" r="80"/> <!-- Pulkovo Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="9155.53" z="3901.00" r="80"/> <!-- Pusta Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="9649.89" z="6554.19" r="80"/> <!-- Shakhovka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="15" x="13402.08" z="6276.62" r="80"/> <!-- N Solnechiy-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="13565.6" z="14018.6" r="80"/> <!-- S Turovo by water pump-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4962.46" z="15100.96" r="80"/> <!-- Stary Yar by water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="5901.82" z="13551.8" r="80"/> <!-- N Polesovo by water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="13" x="1902" z="2244" r="80"/> <!-- Kamenka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="13" x="2840.16" z="12375.35" r="70"/> <!-- Topolniki By Bar-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="12073.6" z="7249.24" r="70"/> <!-- Orlovets Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="13" x="12937.86" z="8053.35" r="90"/> <!-- Nizhnoye by water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="10" x="2007.5" z="7310" r="80"/> <!-- Myshkino Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="6257.42" z="12693.26" r="70"/> <!-- Ratnoe Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="5049.47" z="13022.36" r="70"/> <!-- E Zaprudnoe Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="14" x="12049.76" z="3515.52" r="80"/> <!-- Kamyshovo by Docks-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="7" x="3300.49" z="3945.24" r="80"/> <!-- Bor Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="0" dmax="1" x="6671.58" z="14471.45" r="80"/> <!-- Kamensk by Grocery-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="10" x="8510" z="13970" r="80"/> <!-- SE of Troitskoe By 2 Barracks-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="7535" z="13505" r="80"/> <!-- Troitskoe Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="0" dmax="1" x="6745" z="14350" r="70"/> <!-- Kamensk Fields-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="8753.53" z="11641.32" r="80"/> <!-- S Gvozdno by Grocery-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="8155.83" z="11563.3" r="80"/> <!-- Small Village SW of Gvozdno-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="10535" z="9695" r="80"/> <!-- S Dubrovka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="7" x="10275" z="9530" r="80"/> <!-- SW Dubrovka Farms-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="15" x="6120.83" z="7713.07" r="100"/> <!-- E Stary Sobor-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="11210" z="6565" r="80"/> <!-- W Dolina By Police Station-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="12465" z="14815" r="80"/> <!-- W Karmanovka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="12652.52" z="14674.16" r="100"/> <!-- Karmanovka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="12972" z="14519.1" r="80"/> <!-- E Karmanovka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="9142.5" z="14507.5" r="60"/> <!-- W Nagornoe-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="9270" z="13620" r="60"/> <!-- SW Svergino-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="14" x="9474.90" z="13777.29" r="80"/> <!--Svergino Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="8430.76" z="12759.37" r="50"/> <!-- E Severograd Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="6" dmax="14" x="10986.18" z="12401.60" r="100"/> <!-- W Krasnostav-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="6546.16" z="6073.91" r="80"/> <!-- Vyshnoye Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="7607.31" z="5161.00" r="80"/> <!-- E Mogilevka Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="5855.42" z="4696.76" r="70"/> <!-- S Nadezhdino By Police Station-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="14" x="4408.31" z="2489.82" r="70"/> <!-- W Balota by water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="4478.79" z="2385.31" r="70"/> <!-- SE Balota by car spawn-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="1740" z="2200" r="70"/> <!-- W Kamenka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="13" x="2485" z="6360" r="80"/> <!-- Sosnovka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="12" x="3040" z="12600" r="80"/> <!-- NE Topolniki by Grocery-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="13" x="2836.27" z="12369.51" r="80"/> <!--Topolniki Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="1521.86" z="11986.95" r="100"/> <!-- Sinistok Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="3440" z="12710" r="80"/> <!-- S Novaya Petrovka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="14" x="11965" z="13870" r="80"/> <!-- NW Cernaya Polana-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="15" x="12095.94" z="13633.88" r="90"/> <!-- S Cernaya Polana-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="14" x="12290.37" z="10891.25" r="90"/> <!-- Khelm Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="4396.25" z="3932.5" r="60"/> <!-- S of Kozlovska-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="3389.09" z="4934.5" r="60"/> <!-- Drozhino Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="8422.01" z="6656.27" r="70"/> <!-- Guglovo Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="9978.98" z="10372.09" r="80"/> <!-- Vyshnaya Dubrovka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="9645" z="10440" r="80"/> <!-- W Vyshnaya Dubrovka-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="13" x="10656.60" z="8017.38" r="70"/> <!-- S Polana-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="11301.65" z="5481.34" r="70"/> <!-- Msta by water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="1" x="10295" z="5530" r="60"/> <!-- NE Staroye-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="6947.19" z="7725.71" r="80"/> <!-- W Novy Sobor Farms-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="13" x="10195.30" z="2522.39" r="90"/> <!-- Elektro School--><!-- セーフ -->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="6" dmax="14" x="10188.49" z="2353.71" r="90"/> <!-- Village Below Elektro School--><!-- セーフ -->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="14" x="10539.94" z="2146.15" r="80"/> <!-- Elektro Village by Shore--><!-- セーフ -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="8052.58" z="12510.00" r="80"/> <!-- S Severograd-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="1272" z="12019" r="80"/> <!-- W Sinistok-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="4" x="3212.5" z="13715" r="60"/> <!-- NW Novaya Petrovka Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="3430" z="14810" r="60"/> <!-- Tisy-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="3538" z="14220" r="70"/> <!-- S Tisy Farm-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="4145" z="13135" r="80"/> <!-- E Novaya Petrovka Garages-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="12" x="3678.67" z="13090.90" r="80"/> <!-- Novaya Petrovka Church-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="5415" z="12675" r="80"/> <!-- Far W of Ratnoe-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="5059.68" z="12758.40" r="80"/> <!-- Far SE of Zaprudnoe Garages-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="7" x="5640" z="13120" r="80"/> <!-- S Polesovo Farms-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="5765" z="15220" r="80"/> <!-- E of Stary Yar Garages-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="5192.38" z="14996.45" r="80"/> <!-- E Stary Yar-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="4892.46" z="15056.73" r="80"/> <!-- SW Stary Yar-->
+	    <zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="14" x="10730" z="14377.5" r="80"/> <!-- W Novodmitrovsk by water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="9399.55" z="14559.44" r="80"/> <!-- Nagornoe Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="12" x="13336" z="12927" r="80"/> <!-- Olsha Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="12287.46" z="10876.67" r="80"/> <!--Khelm Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="6480" z="6170" r="80"/> <!-- NW Vyshnoye Farm-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="4" x="5850" z="3970" r="80"/> <!-- Houses S of Nadezhdino-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="5894.31" z="10165.49" r="70"/> <!-- S Grishino Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="2448.85" z="10992.85" r="80"/> <!-- E Vavilovo-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="10422.9" z="9840" r="80"/> <!--Dubrovka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="6380" z="12705" r="80"/> <!-- E Ratnoe-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="6" x="4701.18" z="6338.82" r="80"/> <!-- Pogorevka Gas Station-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="4748.09" z="6689.32" r="80"/> <!-- S Rogovo-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="7" x="2514" z="9648" r="60"/> <!-- SW Lopatino-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="14" x="3853.18" z="8835.50" r="80"/> <!-- SE Vybor-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="4" x="3666" z="8571" r="60"/> <!-- Houses S of Vybor-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="8611.10" z="11877.57" r="80"/> <!-- Gvozdno Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="8472.08" z="12050.14" r="80"/> <!-- Gvozdno N of Church-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="8226.60" z="12208.12" r="70"/> <!-- S Severograd Village by Church-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="5" x="7608.75" z="12870" r="80"/> <!-- NW Severograd Farm-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="7980" z="13046.2" r="80"/> <!-- Mamino Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="7488.75" z="13773.8" r="80"/> <!-- N  of Troitskoe Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="7691.41" z="13286.80" r="80"/> <!-- Kalinivka Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="5" x="6798.75" z="12570" r="60"/> <!-- Houses E of Ratnoe-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="9470.52" z="2011.01" r="80"/> <!-- W Elektro Gas Station--><!-- セーフ -->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="10" x="9607.60" z="1988.16" r="80"/> <!-- W Elektro Garages--><!-- セーフ -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="8015.15" z="3331.28" r="70"/> <!-- Prigorodki Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="10125" z="5460" r="70"/> <!--Staroye Center of Village-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="11372.62" z="5510.51" r="60"/> <!-- N Msta-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="11294.36" z="6574.12" r="80"/> <!-- Center Dolina-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="8" x="11568.8" z="6607.5" r="80"/> <!-- E Dolina-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="12181.98" z="6275.16" r="60"/> <!-- E Dolina Outskirts-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="12286.49" z="6248.91" r="60"/> <!-- E Dolina Outskirts-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="13368" z="5424" r="50"/> <!-- Three Valleys by the coast-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="12943.8" z="6266.57" r="60"/> <!-- Solnechniy Factory Heading inland-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="12231" z="7323" r="80"/> <!-- Orlovets Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="13" x="12196.4" z="3523.64" r="60"/> <!-- E Kamyshovo-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="9113.33" z="4063.33" r="70"/> <!-- N Pusta-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4886.25" z="2823.75" r="60"/> <!-- N Balota Airstrip Bar-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="4545" z="2576.25" r="60"/> <!-- N Balota-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="15" x="11508.24" z="14294.02" r="70"/> <!-- Lower Novodmitrovsk-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="12849.4" z="15073.7" r="70"/> <!-- NW Dobroe-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="13112.37" z="14939.09" r="80"/> <!-- E Dobroe -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="14062.69" z="15034.37" r="80"/> <!-- Belaya Polana water pump-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="11640" z="15087" r="70"/> <!-- Smirnovo Garages-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="5" dmax="13" x="11445" z="14904" r="80"/> <!-- Smirnovo by Church-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="10435.2" z="8855.36" r="50"/> <!-- Gorka Gas Station-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="6" x="12942.72" z="6759.32" r="60"/> <!-- SW Solnichniy-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="11592.9" z="12432.9" r="80"/> <!-- NE Krasnostav-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="4" x="11753.6" z="12171.4" r="50"/> <!-- Far E Krasnostav-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="6525.26" z="3058.57" r="80"/> <!-- Cherno Near Roundabout-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="13" x="6193.13" z="2938.13" r="80"/> <!-- S Novoselki by Police Station-->
+     <!--    <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="1" x="1370" z="4067.5" r="70"/> NW Pavlovo Farms-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="729" z="4605" r="50"/> <!-- SE Svir-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="318" z="4608" r="50"/> <!-- SW Svir-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="8" x="909" z="2004" r="60"/> <!-- Bay Tikhaya Car Pile up-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="195" z="2385" r="50"/> <!-- SW Corner of map-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="10297.5" z="2860" r="80"/> <!-- N of Elektro Power Plant--><!-- セーフ -->
+	    <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="11966.63" z="12030.21" r="70"/> <!-- S of Krasnostav Airstrip Bar-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="10" x="11132.49" z="12303.89" r="80"/> <!-- Kranostav by Grocery-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="15" x="11198.60" z="12168.75" r="90"/> <!-- Krasnostav Center of Town-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="3" x="11640" z="14097.5" r="60"/> <!-- Novodmitrovsk Train Tracks-->
+    </territory>
+</territory-type>

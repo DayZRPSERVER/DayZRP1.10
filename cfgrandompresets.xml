@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<randompresets>
+	<cargo chance="0.6" name="hatsArmy1">
+			<item name="GorkaHelmet" chance="0.5" />
+			<item name="GorkaHelmet_Black" chance="0.1" />
+			<item name="GorkaHelmet_Green" chance="0.1" />
+		</cargo>
+		<cargo chance="0.7" name="hatsArmy2">
+			<item name="Mich2001Helmet" chance="0.5" />
+			<item name="NVGoggles" chance="0.25" />
+			<item name="NVGHeadstrap" chance="0.25" />
+		</cargo>
+		<cargo chance="0.5" name="hatsArmy3">
+			<item name="BallisticHelmet_Black" chance="0.25" />
+			<item name="BallisticHelmet_Green" chance="0.25" />
+			<item name="BallisticHelmet_UN" chance="0.5" />
+		</cargo>
+		<cargo chance="0.4" name="vestsArmy1">
+			<item name="PlateCarrierVest" chance="1" />
+		</cargo>
+		<cargo chance="0.4" name="vestsArmy2">
+			<item name="SmershVest" chance="0.2" />
+			<item name="UKAssVest_Black" chance="0.2" />
+			<item name="UKAssVest_Camo" chance="0.2" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+		</cargo>
+		<cargo chance="1.0" name="ShirtArmy2">
+			<item name="TacticalShirt_Black" chance="0.25" />
+			<item name="TacticalShirt_Grey" chance="0.25" />
+			<item name="TacticalShirt_Olive" chance="0.25" />
+			<item name="TacticalShirt_Tan" chance="0.25" />
+		</cargo>
+		<cargo chance="1.0" name="pantsArmy2">
+			<item name="CargoPants_Beige" chance="0.25" />
+			<item name="CargoPants_Black" chance="0.25" />
+			<item name="CargoPants_Blue" chance="0.25" />
+			<item name="CargoPants_Green" chance="0.15" />
+			<item name="CargoPants_Grey" chance="0.1" />
+		</cargo>
+		<cargo chance="1" name="sidearm">
+				<item name="CZ75" chance="0.5" />
+				<item name="Glock19" chance="0.5" />
+		</cargo>
+		<cargo chance="1" name="sidearm2">
+				<item name="FNX45" chance="0.5" />
+				<item name="Colt1911" chance="0.5" />
+		</cargo>
+		<cargo chance="0.15" name="foodHermit">
+				<item name="TunaCan" chance="0.11" />
+				<item name="SardinesCan" chance="0.11" />
+				<item name="Apple" chance="0.07" />
+		</cargo>
+		<cargo chance="0.10" name="foodzombi"><!-- ゾンビ飯 -->
+				<item name="Guts" chance="0.3" />
+				<item name="ChickenBreastMeat" chance="0.1" />
+				<item name="HumanSteakMeat" chance="0.2" />
+				<item name="Lard" chance="0.1" />
+				<item name="PigSteakMeat" chance="0.1" />
+				<item name="CowSteakMeat" chance="0.1" />
+				<item name="GoatSteakMeat" chance="0.1" />
+		</cargo>		
+				<cargo chance="1" name="build"><!-- 建築資材 -->
+				<item name="SledgeHammer" chance="0.3" />
+				<item name="MetalWire" chance="0.1" />
+				<item name="NailBox" chance="0.2" />
+				<item name="Hacksaw" chance="0.1" />
+				<item name="Hammer" chance="0.1" />
+				<item name="Shovel" chance="0.1" />
+				<item name="Rope" chance="0.1" />
+		</cargo>
+		
+		<cargo chance="0.5" name="campset1"><!-- キャンプセット -->
+				<item name="PortableGasStove" chance="0.6" />
+				<item name="Pot" chance="0.3" />
+				<item name="Rice" chance="0.10" />
+		</cargo>
+		<cargo chance="0.5" name="campset2"><!-- キャンプセット -->
+				<item name="HuntingKnife" chance="0.5" />
+				<item name="FishingRod" chance="0.5" />
+		</cargo>
+		<cargo chance="0.2" name="campset3"><!-- テント -->
+				<item name="MediumTent" chance="0.4" />
+				<item name="MediumTent_Green" chance="0.3" />
+				<item name="MediumTent_Orange" chance="0.3" />
+		</cargo>
+		<cargo chance="1" name="ammobox1"><!-- 弾薬BOX用 -->
+				<item name="AmmoBox_380_35Rnd" chance="0.04" />
+				<item name="AmmoBox_9x19_25Rnd" chance="0.05" />
+				<item name="AmmoBox_762x39_20Rnd" chance="0.05" />
+				<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
+				<item name="AmmoBox_45ACP_25rnd" chance="0.05" />
+				<item name="AmmoBox_00buck_10rnd" chance="0.04" />
+				<item name="AmmoBox_12gaSlug_10Rnd" chance="0.04" />
+				<item name="AmmoBox_308Win_20Rnd" chance="0.04" />		
+				<item name="AmmoBox_762x39Tracer_20Rnd" chance="0.04" />	
+				<item name="AmmoBox_357_20Rnd" chance="0.04" />
+				<item name="AmmoBox_762x54Tracer_20Rnd" chance="0.04" />
+				<item name="AmmoBox_545x39_20Rnd" chance="0.04" />
+				<item name="AmmoBox_556x45_20Rnd" chance="0.04" />
+				<item name="Mag_AK101_30Rnd" chance="0.04" />
+				<item name="Mag_AKM_Drum75Rnd" chance="0.04" />
+				<item name="Mag_AKM_Palm30Rnd" chance="0.04" />
+				<item name="Mag_CMAG_30Rnd" chance="0.04" />
+				<item name="Mag_AK74_30Rnd" chance="0.04" />
+				<item name="Mag_VSS_10Rnd" chance="0.02" />
+				<item name="Mag_Saiga_5Rnd" chance="0.04" />
+				<item name="Mag_SVD_10Rnd" chance="0.04" />
+				<item name="AmmoBox_9x39AP_20Rnd" chance="0.04" />
+				<item name="AmmoBox_9x39_20Rnd" chance="0.04" />
+		</cargo>
+		<cargo chance="0.4" name="sidemag"><!-- 軍ゾンビ所持用 -->
+				<item name="AmmoBox_380_35Rnd" chance="0.1" />
+				<item name="AmmoBox_9x19_25Rnd" chance="0.1" />
+				<item name="AmmoBox_762x39_20Rnd" chance="0.1" />
+				<item name="AmmoBox_762x54_20Rnd" chance="0.1" />
+				<item name="AmmoBox_45ACP_25rnd" chance="0.1" />
+				<item name="AmmoBox_00buck_10rnd" chance="0.1" />
+				<item name="AmmoBox_12gaSlug_10Rnd" chance="0.1" />
+				<item name="AmmoBox_308Win_20Rnd" chance="0.05" />		
+				<item name="AmmoBox_762x39Tracer_20Rnd" chance="0.05" />	
+				<item name="AmmoBox_357_20Rnd" chance="0.05" />
+				<item name="AmmoBox_762x54Tracer_20Rnd" chance="0.05" />
+				<item name="AmmoBox_545x39_20Rnd" chance="0.05" />
+				<item name="AmmoBox_556x45_20Rnd" chance="0.05" />
+		</cargo>
+		<cargo chance="1" name="toolset"><!-- 建築資材 -->
+				<item name="NailBox" chance="0.3" />
+				<item name="MetalWire" chance="0.4" />
+				<item name="Rope" chance="0.3" />
+		</cargo>
+		<cargo chance="0.5" name="battery"><!-- バッテリー装備用 -->
+				<item name="Battery9V" chance="1" />
+		</cargo>
+		<attachments chance="0.3" name="myhats1"><!-- ヘルメットTier1 -->
+				<item name="ZmijovkaCap_Blue" chance="0.05" />
+				<item name="ConstructionHelmet_Yellow" chance="0.05" />
+				<item name="PoliceCap" chance="0.05" />
+				<item name="DarkMotoHelmet_Blue" chance="0.05" />
+				<item name="FlatCap_Blue" chance="0.05" />
+				<item name="BallisticHelmet_Black" chance="0.05" />
+				<item name="BeanieHat_Brown" chance="0.05" />
+				<item name="DirtBikeHelmet_Police" chance="0.05" />
+				<item name="FirefightersHelmet_White" chance="0.05" />
+				<item name="HockeyHelmet_Red" chance="0.05" />
+				<item name="BoonieHat_Red" chance="0.05" />
+				<item name="MotoHelmet_Blue" chance="0.05" />
+				<item name="LeatherHat_Brown" chance="0.05" />
+				<item name="CowboyHat_Brown" chance="0.05" />
+				<item name="MotoHelmet_Red" chance="0.05" />
+				<item name="MedicalScrubsHat_White" chance="0.05" />
+				<item name="CowboyHat_Brown" chance="0.05" />
+				<item name="SkateHelmet_Blue" chance="0.05" />
+				<item name="PumpkinHelmet" chance="0.05" />
+				<item name="NBCHoodGray" chance="0.05" />
+		</attachments>
+		<attachments chance="0.2" name="mynvg1"><!-- ゴーグルTier1 -->
+				<item name="NVGoggles" chance="0.1" />
+				<item name="TacticalGoggles" chance="0.9" />
+		</attachments>
+		<attachments chance="0.2" name="myvests1"><!-- ベストTier1 -->
+				<item name="SmershVest" chance="0.5" />
+				<item name="PoliceVest" chance="0.25" />
+				<item name="PressVest_Blue" chance="0.25" />
+		</attachments>
+		<attachments chance="0.4" name="myface1"><!-- スカーフTier1 -->
+				<item name="BalaclavaMask_Blackskull" chance="0.2" />
+				<item name="BalaclavaMask_Pink" chance="0.2" />
+				<item name="BandanaMask_GreenPattern" chance="0.2" />
+				<item name="BandanaMask_RedPattern" chance="0.2" />
+				<item name="HockeyMask" chance="0.2" />
+		</attachments>
+		<attachments chance="1.00" name="mybelt1"><!-- ベルトTier1 -->
+				<item name="MilitaryBelt" chance="0.25" />
+				<item name="CivilianBelt" chance="0.5" />
+				<item name="LeatherBelt_Brown" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00" name="mybags1"><!-- バッグTier1 -->
+				<item name="DryBag_Green" chance="0.1" />
+				<item name="DryBag_Yellow" chance="0.05" />
+				<item name="FurCourierBag" chance="0.1" />
+				<item name="ImprovisedBag" chance="0.05" />
+				<item name="MountainBag_Blue" chance="0.1" />
+				<item name="MountainBag_Orange" chance="0.1" />
+				<item name="MountainBag_Red" chance="0.05" />
+				<item name="TaloonBag_Orange" chance="0.2" />
+				<item name="TaloonBag_Violet" chance="0.05" />
+				<item name="ChildBag_Blue" chance="0.05" />
+				<item name="ChildBag_Green" chance="0.05" />
+				<item name="ChildBag_Red" chance="0.1" />
+		</attachments>
+		<attachments chance="1.00" name="myboots1"><!-- 靴Tier1 -->
+				<item name="HikingBootsLow_Blue" chance="0.1" />
+				<item name="HikingBoots_Brown" chance="0.05" />
+				<item name="WorkingBoots_Beige" chance="0.1" />
+				<item name="WorkingBoots_Green" chance="0.05" />
+				<item name="WorkingGloves_Beige" chance="0.1" />
+				<item name="WorkingGloves_Yellow" chance="0.1" />
+				<item name="JungleBoots_Green" chance="0.05" />
+				<item name="JungleBoots_Olive" chance="0.2" />
+				<item name="HikingBootsLow_Grey" chance="0.05" />
+				<item name="CombatBoots_Green" chance="0.05" />
+				<item name="CombatBoots_Brown" chance="0.05" />
+				<item name="MilitaryBoots_Bluerock" chance="0.1" />
+		</attachments>
+		<attachments chance="0.4" name="mygloves1"><!-- 手袋Tier1 -->
+				<item name="OMNOGloves_Brown" chance="0.2" />
+				<item name="WorkingGloves_Beige" chance="0.2" />
+				<item name="WorkingGloves_Yellow" chance="0.2" />
+				<item name="TacticalGloves_Green" chance="0.2" />
+				<item name="WorkingGloves_Black" chance="0.2" />
+		</attachments>
+		<attachments chance="1.00" name="mytop1"><!-- トップスTier1 -->
+				<item name="BomberJacket_Blue" chance="0.1" />
+				<item name="BomberJacket_Grey" chance="0.05" />
+				<item name="FirefighterJacket_Beige" chance="0.1" />
+				<item name="GorkaEJacket_Autumn" chance="0.05" />
+				<item name="HikingJacket_Blue" chance="0.1" />
+				<item name="HikingJacket_Red" chance="0.1" />
+				<item name="M65Jacket_Khaki" chance="0.05" />
+				<item name="M65Jacket_Tan" chance="0.2" />
+				<item name="ManSuit_Beige" chance="0.05" />
+				<item name="ManSuit_Brown" chance="0.05" />
+				<item name="PoliceJacketOrel" chance="0.05" />
+				<item name="TTsKOJacket_Camo" chance="0.1" />
+		</attachments>
+		<attachments chance="1.00" name="mypants1"><!-- ボトムTier1 -->
+				<item name="BDUPants" chance="0.1" />
+				<item name="Breeches_Beige" chance="0.05" />
+				<item name="Breeches_Green" chance="0.1" />
+				<item name="CanvasPantsMidi_Red" chance="0.05" />
+				<item name="CanvasPants_Grey" chance="0.1" />
+				<item name="CargoPants_Green" chance="0.1" />
+				<item name="FirefightersPants_Beige" chance="0.05" />
+				<item name="HunterPants_Autumn" chance="0.2" />
+				<item name="HunterPants_Summer" chance="0.05" />
+				<item name="JumpsuitPants_Blue" chance="0.05" />
+				<item name="MedicalScrubsPants_Green" chance="0.05" />
+				<item name="PolicePants" chance="0.1" />
+		</attachments>
+		<attachments chance="1.00" name="mywepon1"><!-- ボトムTier1 -->
+			<item name="BaseballBat" chance="0.09" />
+			<item name="NailedBaseballBat" chance="0.07" />
+			<item name="B95_Green" chance="0.01" />
+			<item name="CZ61" chance="0.09" />
+			<item name="AKS74U_Green" chance="0.01" />
+			<item name="FAL" chance="0.01" />
+			<item name="Glock19" chance="0.09" />
+			<item name="Izh43Shotgun" chance="0.09" />
+			<item name="M4A1_Green" chance="0.01" />
+			<item name="MP5K" chance="0.09" />
+			<item name="SKS_Green" chance="0.01" />
+			<item name="Saiga" chance="0.08" />
+			<item name="SVD" chance="0.05" />
+			<item name="VSS" chance="0.02" />
+			<item name="CZ527" chance="0.07" />
+			<item name="FNX45" chance="0.09" />
+			<item name="Mag_AKM_Drum75Rnd_Green" chance="0.03" />
+			<item name="Mag_AKM_Palm30Rnd" chance="0.03" />
+			<item name="M4_Suppressor" chance="0.05" />
+			<item name="SteakKnife" chance="0.05" />
+		</attachments>
+		<cargo chance="0.5" name="campset">
+				<item name="CarTent" chance="0.05" />
+				<item name="LargeTent" chance="0.05" />
+				<item name="PartyTent" chance="0.05" />
+				<item name="PortableGasStove" chance="0.08" />
+				<item name="Pot" chance="0.12" />
+				<item name="Rice" chance="0.10" />
+				<item name="HuntingKnife" chance="0.10" />
+				<item name="BandageDressing" chance="0.10" />
+		</cargo>
+		<cargo chance="0.3" name="foodVillage">
+				<item name="SodaCan_Cola" chance="0.05" />
+				<item name="SodaCan_Pipsi" chance="0.05" />
+				<item name="SodaCan_Spite" chance="0.05" />
+				<item name="TunaCan" chance="0.08" />
+				<item name="SardinesCan" chance="0.12" />
+				<item name="PeachesCan" chance="0.10" />
+				<item name="SpaghettiCan" chance="0.10" />
+				<item name="BakedBeansCan" chance="0.10" />
+		</cargo>
+		<cargo chance="0.20" name="foodCity"> <!--same as the one above - just preparing -->
+				<item name="SodaCan_Cola" chance="0.05" />
+				<item name="SodaCan_Pipsi" chance="0.05" />
+				<item name="SodaCan_Spite" chance="0.05" />
+				<item name="TunaCan" chance="0.08" />
+				<item name="SardinesCan" chance="0.12" />
+				<item name="PeachesCan" chance="0.10" />
+				<item name="SpaghettiCan" chance="0.10" />
+				<item name="BakedBeansCan" chance="0.10" />
+		</cargo>
+		<cargo chance="0.2" name="foodArmy">
+				<item name="SodaCan_Cola" chance="0.05" />
+				<item name="SodaCan_Pipsi" chance="0.05" />
+				<item name="SodaCan_Spite" chance="0.05" />
+				<item name="TunaCan" chance="0.1" />
+				<item name="SardinesCan" chance="0.05" />
+				<item name="PeachesCan" chance="0.05" />
+				<item name="SpaghettiCan" chance="0.05" />
+				<item name="BakedBeansCan" chance="0.05" />
+				<item name="TacticalBaconCan" chance="0.1" />
+				<item name="Canteen" chance="0.1" />
+		</cargo>
+		<cargo chance="0.25" name="toolsHermit">
+				<item name="Matchbox" chance="0.15" />
+				<item name="CanOpener" chance="0.05" />
+				<item name="Rope" chance="0.07" />
+				<item name="Rag" chance="0.07" />
+				<item name="Hatchet" chance="0.07" />
+				<item name="StoneKnife" chance="0.1" />
+				<item name="HuntingKnife" chance="0.08" />
+				<item name="PurificationTablets" chance="0.05" />
+				<item name="CharcoalTablets" chance="0.05" />
+		</cargo>
+		<cargo chance="0.3" name="toolsVillage">
+				<item name="DuctTape" chance="0.07" />
+				<item name="Battery9V" chance="0.07" />
+				<item name="Matchbox" chance="0.07" />
+				<item name="SewingKit" chance="0.07" />
+				<item name="CanOpener" chance="0.05" />
+				<item name="NailBox" chance="0.05" />
+				<item name="Rope" chance="0.07" />
+				<item name="Rag" chance="0.07" />
+				<item name="Flashlight" chance="0.07" />
+		</cargo>
+		<cargo chance="0.4" name="toolsCity"> <!--same as the one above - just preparing -->
+				<item name="DuctTape" chance="0.07" />
+				<item name="Battery9V" chance="0.07" />
+				<item name="Matchbox" chance="0.07" />
+				<item name="SewingKit" chance="0.07" />
+				<item name="NailBox" chance="0.05" />
+				<item name="SmallGasCanister" chance="0.05" />
+				<item name="CanOpener" chance="0.05" />
+				<item name="Rope" chance="0.07" />
+				<item name="Rag" chance="0.07" />
+				<item name="Flashlight" chance="0.07" />
+		</cargo>
+		<cargo chance="0.7" name="toolsMedic">
+				<item name="SalineBag" chance="0.05" />
+				<item name="BandageDressing" chance="0.15" />
+				<item name="BloodBagEmpty" chance="0.1" />
+				<item name="BloodTestKit" chance="0.05" />
+				<item name="StartKitIV" chance="0.05" />
+				<item name="PurificationTablets" chance="0.1" />
+				<item name="CharcoalTablets" chance="0.1" />
+				<item name="PainkillerTablets" chance="0.1" />
+				<item name="VitaminBottle" chance="0.05" />
+				<item name="TetracyclineAntibiotics" chance="0.1" />
+		</cargo>
+		<cargo chance="0.5" name="toolsPolice">
+				<item name="Rope" chance="0.05" />
+				<item name="Battery9V" chance="0.1" />
+				<item name="PersonalRadio" chance="0.1" />
+				<item name="Flashlight" chance="0.15" />
+				<item name="Roadflare" chance="0.2" />
+				<item name="CombatKnife" chance="0.05" />
+				<item name="Morphine" chance="0.05" />
+				<item name="BandageDressing" chance="0.05" />
+		</cargo>
+		<cargo chance="0.2" name="toolsHunter">
+				<item name="Paper" chance="0.1" />
+				<item name="Flashlight" chance="0.1" />
+				<item name="Battery9V" chance="0.1" />
+				<item name="Matchbox" chance="0.15" />
+				<item name="Roadflare" chance="0.1" />
+				<item name="HuntingKnife" chance="0.05" />
+				<item name="CanOpener" chance="0.05" />
+				<item name="BandageDressing" chance="0.05" />
+				<item name="PurificationTablets" chance="0.10" />
+				<item name="CharcoalTablets" chance="0.10" />
+				<item name="PainkillerTablets" chance="0.10" />
+				<item name="VitaminBottle" chance="0.10" />
+		</cargo>
+		<cargo chance="0.35" name="toolsIndustrial">
+				<item name="Pipe" chance="0.07" />
+				<item name="Hatchet" chance="0.07" />
+				<item name="Crowbar" chance="0.06" />
+				<item name="MetalWire" chance="0.1" />
+				<item name="NailBox" chance="0.1" />
+				<item name="Rope" chance="0.1" />
+				<item name="DuctTape" chance="0.1" />
+				<item name="Battery9V" chance="0.2" />
+				<item name="Flashlight" chance="0.2" />
+		</cargo>
+		<cargo chance="0.15" name="ammoCivil">
+				<item name="Ammo_380" chance="0.22" />
+				<item name="AmmoBox_380_35Rnd" chance="0.08" />
+				<item name="Ammo_9x19" chance="0.15" />
+				<item name="AmmoBox_9x19_25Rnd" chance="0.08" />
+				<item name="Ammo_762x39" chance="0.12" />
+				<item name="AmmoBox_762x39_20Rnd" chance="0.02" />
+				<item name="Ammo_762x54" chance="0.08" />
+				<item name="AmmoBox_762x54_20Rnd" chance="0.02" />
+		</cargo>
+		<cargo chance="0.4" name="ammoPolice">
+				<item name="Ammo_9x19" chance="0.3" />
+				<item name="AmmoBox_9x19_25Rnd" chance="0.1" />
+				<item name="Ammo_45ACP" chance="0.3" />
+				<item name="AmmoBox_45ACP_25Rnd" chance="0.1" />
+		</cargo>
+		<cargo chance="0.5" name="ammoArmy">
+				<item name="Ammo_45ACP" chance="0.2" />
+				<item name="AmmoBox_45ACP_25Rnd" chance="0.1" />
+				<item name="Ammo_762x39" chance="0.3" />
+				<item name="AmmoBox_762x39_20Rnd" chance="0.05" />
+				<item name="Ammo_762x54" chance="0.3" />
+				<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
+		</cargo>
+		<cargo chance="0.3" name="mixVillage">
+				<item name="DuctTape" chance="0.07" />
+				<item name="Battery9V" chance="0.07" />
+				<item name="NailBox" chance="0.1" />
+				<item name="MetalWire" chance="0.1" />
+				<item name="Matchbox" chance="0.07" />
+				<item name="Roadflare" chance="0.2" />
+				<item name="KitchenKnife" chance="0.05" />
+				<item name="CanOpener" chance="0.05" />
+				<item name="BandageDressing" chance="0.05" />
+				<item name="Ammo_380" chance="0.22" />
+				<item name="AmmoBox_380_35Rnd" chance="0.08" />
+				<item name="Ammo_9x19" chance="0.15" />
+				<item name="AmmoBox_9x19_25Rnd" chance="0.08" />
+				<item name="Ammo_762x39" chance="0.12" />
+				<item name="AmmoBox_762x39_20Rnd" chance="0.02" />
+				<item name="Ammo_762x54" chance="0.08" />
+				<item name="AmmoBox_762x54_20Rnd" chance="0.02" />
+				<item name="SodaCan_Cola" chance="0.09" />
+				<item name="SodaCan_Pipsi" chance="0.09" />
+				<item name="SodaCan_Spite" chance="0.09" />
+				<item name="TunaCan" chance="0.10" />
+				<item name="SardinesCan" chance="0.09" />
+				<item name="PeachesCan" chance="0.10" />
+				<item name="SpaghettiCan" chance="0.09" />
+				<item name="BakedBeansCan" chance="0.10" />
+		</cargo>
+		<cargo chance="0.3" name="mixHunter">
+				<item name="Paper" chance="0.1" />
+				<item name="Flashlight" chance="0.1" />
+				<item name="Matchbox" chance="0.07" />
+				<item name="Roadflare" chance="0.2" />
+				<item name="HuntingKnife" chance="0.05" />
+				<item name="CanOpener" chance="0.05" />
+				<item name="BandageDressing" chance="0.05" />
+				<item name="Ammo_380" chance="0.22" />
+				<item name="AmmoBox_380_35Rnd" chance="0.08" />
+				<item name="Ammo_9x19" chance="0.15" />
+				<item name="AmmoBox_9x19_25Rnd" chance="0.08" />
+				<item name="Ammo_762x39" chance="0.12" />
+				<item name="AmmoBox_762x39_20Rnd" chance="0.02" />
+				<item name="Ammo_762x54" chance="0.08" />
+				<item name="AmmoBox_762x54_20Rnd" chance="0.02" />
+				<item name="SodaCan_Cola" chance="0.09" />
+				<item name="SodaCan_Pipsi" chance="0.09" />
+				<item name="SodaCan_Spite" chance="0.08" />
+				<item name="TunaCan" chance="0.10" />
+				<item name="SardinesCan" chance="0.10" />
+				<item name="PeachesCan" chance="0.10" />
+				<item name="SpaghettiCan" chance="0.09" />
+				<item name="BakedBeansCan" chance="0.09" />
+		</cargo>
+		<cargo chance="0.3" name="mixArmy">
+				<item name="SodaCan_Cola" chance="0.05" />
+				<item name="SodaCan_Pipsi" chance="0.05" />
+				<item name="SodaCan_Spite" chance="0.05" />
+				<item name="TunaCan" chance="0.1" />
+				<item name="SardinesCan" chance="0.05" />
+				<item name="PeachesCan" chance="0.05" />
+				<item name="NailBox" chance="0.05" />
+				<item name="MetalWire" chance="0.05" />
+				<item name="TacticalBaconCan" chance="0.1" />
+				<item name="Canteen" chance="0.1" />
+				<item name="Ammo_45ACP" chance="0.2" />
+				<item name="AmmoBox_45ACP_25Rnd" chance="0.05" />
+				<item name="Ammo_762x39" chance="0.2" />
+				<item name="AmmoBox_762x39_20Rnd" chance="0.05" />
+				<item name="Ammo_762x54" chance="0.2" />
+				<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
+		</cargo>
+		<cargo chance="1" name="mixmod"><!--武器MOD-->
+				<item name="ACOGOptic" chance="0.05" />
+				<item name="AK_Bayonet" chance="0.05" />
+				<item name="AK_FoldingBttstck" chance="0.05" />
+				<item name="AK_PlasticBttstck_Green" chance="0.1" />
+				<item name="AK_Suppressor" chance="0.05" />
+				<item name="BUISOptic" chance="0.05" />
+				<item name="FNP45_MRDSOptic" chance="0.05" />
+				<item name="KazuarOptic" chance="0.05" />
+				<item name="KobraOptic" chance="0.1" />
+				<item name="M4_CQBBttstck" chance="0.05" />
+				<item name="M4_MPBttstck" chance="0.2" />
+				<item name="M4_RISHndgrd_Green" chance="0.05" />
+				<item name="Mag_CMAG_40Rnd" chance="0.05" />
+				<item name="Mag_AKM_Palm30Rnd" chance="0.05" />
+				<item name="Mosin_Compensator" chance="0.2" />
+				<item name="ReflexOptic" chance="0.05" />
+		</cargo>
+		<cargo chance="0.6" name="grenades">
+				<item name="FlashGrenade" chance="0.2" />
+				<item name="RDG5Grenade" chance="0.4" />
+				<item name="M67Grenade" chance="0.4" />
+		</cargo>
+		<cargo chance="0.4" name="grenades2">
+				<item name="M18SmokeGrenade_Green" chance="0.2" />
+				<item name="M18SmokeGrenade_Purple" chance="0.2" />
+				<item name="M18SmokeGrenade_Red" chance="0.2" />
+				<item name="M18SmokeGrenade_Yellow" chance="0.2" />
+				<item name="RDG2SmokeGrenade_White" chance="0.1" />
+				<item name="RDG2SmokeGrenade_Black" chance="0.1" />
+		</cargo>
+		<cargo chance="1" name="optics">
+				<item name="M4_T3NRDSOptic" chance="0.10" />
+				<item name="M4_CarryHandleOptic" chance="0.10" />
+				<item name="KashtanOptic" chance="0.10" />
+				<item name="PSO11Optic" chance="0.05" />
+				<item name="PUScopeOptic" chance="0.05" />
+				<item name="PistolOptic" chance="0.05" />
+				<item name="FNP45_MRDSOptic" chance="0.05" />
+				<item name="KashtanOptic" chance="0.05" />
+				<item name="M68Optic" chance="0.05" />
+				<item name="KazuarOptic" chance="0.05" />
+				<item name="KobraOptic" chance="0.05" />
+				<item name="ACOGOptic" chance="0.15" />
+				<item name="M68Optic" chance="0.05" />
+				<item name="BUISOptic" chance="0.05" />
+				<item name="ReflexOptic" chance="0.05" />
+		</cargo>
+		<!-- -------------------------  FARM ATTACHMENTS  ------------------------- -->
+		<attachments chance="0.20" name="hatsFarm">
+				<item name="Ushanka_Black" chance="0.10" />
+				<item name="Ushanka_Blue" chance="0.10" />
+				<item name="Ushanka_Green" chance="0.10" />
+				<item name="ZmijovkaCap_Black" chance="0.10" />
+				<item name="ZmijovkaCap_Blue" chance="0.10" />
+				<item name="ZmijovkaCap_Brown" chance="0.10" />
+				<item name="ZmijovkaCap_Green" chance="0.10" />
+				<item name="ZmijovkaCap_Red" chance="0.10" />
+		</attachments>
+		<attachments chance="0.10" name="bagsHunter">
+			<item name="CourierBag" chance="0.10" />
+			<item name="HuntingBag" chance="0.50" />
+		</attachments>
+		<attachments chance="0.10" name="vestsHunter">
+			<item name="ChestHolster" chance="0.50" />
+		</attachments>
+		<!-- -------------------------  VILLAGE ATTACHMENTS  ------------------------- -->
+		<attachments chance="0.20" name="hatsVillage">
+		<!--	<item name="SantasHat" chance="0.70" /> -->
+			<item name="FlatCap_Black" chance="0.10" />
+				<item name="FlatCap_Blue" chance="0.10" />
+				<item name="FlatCap_Red" chance="0.10" />
+				<item name="FlatCap_Brown" chance="0.10" />
+				<item name="FlatCap_Grey" chance="0.10" />
+				<item name="FlatCap_BrownCheck" chance="0.10" />
+				<item name="FlatCap_GreyCheck" chance="0.10" />
+				<item name="FlatCap_BlackCheck" chance="0.10" />
+				<item name="RadarCap_Black" chance="0.10" />
+				<item name="RadarCap_Blue" chance="0.10" />
+				<item name="RadarCap_Brown" chance="0.10" />
+				<item name="RadarCap_Green" chance="0.10" />
+				<item name="RadarCap_Red" chance="0.10" />
+		</attachments>
+		<attachments chance="0.20" name="handsVillage">
+				<item name="WoodAxe" chance="0.1" />
+				<item name="Pickaxe" chance="0.8" />
+				<item name="Shovel" chance="0.8" />
+		</attachments>
+		<attachments chance="0.15" name="bagsVillage">
+				<item name="MountainBag_Red" chance="0.10" />
+				<item name="MountainBag_Blue" chance="0.10" />
+				<item name="MountainBag_Orange" chance="0.10" />
+				<item name="MountainBag_Green" chance="0.10" />
+		</attachments>
+		<attachments chance="0.00" name="glassesVillage"> <!--was chance="0.30"; removed coz of attachment slot is missing -->
+			<item name="ThickFramesGlasses" chance="0.10" />
+			<item name="ThinFramesGlasses" chance="0.20" />
+			<item name="DesignerGlasses" chance="0.20" />
+		</attachments>
+
+	<!-- -------------------------  CITY ATTACHMENTS  ------------------------- -->
+		<attachments chance="0.20" name="hatsCity">
+				<!--	<item name="SantasHat" chance="0.70" />-->
+			<item name="FlatCap_BrownCheck" chance="0.10" />
+				<item name="FlatCap_GreyCheck" chance="0.10" />
+				<item name="FlatCap_BlackCheck" chance="0.10" />
+				<item name="BaseballCap_CMMG_Black" chance="0.05" />
+				<item name="BaseballCap_CMMG_Pink" chance="0.05" />
+				<item name="BaseballCap_Blue" chance="0.05" />
+				<item name="BaseballCap_Beige" chance="0.05" />
+				<item name="BaseballCap_Black" chance="0.05" />
+				<item name="BaseballCap_Camo" chance="0.05" />
+				<item name="BaseballCap_Olive" chance="0.05" />
+				<item name="BaseballCap_Pink" chance="0.05" />
+				<item name="BaseballCap_Red" chance="0.05" />
+		</attachments>
+		<attachments chance="0.10" name="handsCity">
+				<item name="NailedBaseballBat" chance="1.0" />
+				<item name="BaseballBat" chance="1.0" />
+				<item name="Machete" chance="1.0" />
+		</attachments>
+		<attachments chance="0.00" name="glassesCity"> <!--was chance="0.20"; removed coz of attachment slot is missing -->
+			<item name="ThickFramesGlasses" chance="0.10" />
+			<item name="ThinFramesGlasses" chance="0.10" />
+			<item name="DesignerGlasses" chance="0.10" />
+			<item name="SportGlasses_Black" chance="0.10" />
+			<item name="SportGlasses_Blue" chance="0.10" />
+			<item name="SportGlasses_Green" chance="0.10" />
+			<item name="SportGlasses_Orange" chance="0.10" />
+		</attachments>
+		<attachments chance="0.15" name="bagsCity">
+			<item name="TaloonBag_Orange" chance="0.25" />
+			<item name="TaloonBag_Blue" chance="0.25" />
+			<item name="TaloonBag_Violet" chance="0.25" />
+			<item name="TaloonBag_Green" chance="0.25" />
+		</attachments>
+		<attachments chance="0.30" name="hatsCitySkate">
+				<item name="SkateHelmet_Blue" chance="0.20" />
+				<item name="SkateHelmet_Gray" chance="0.20" />
+				<item name="SkateHelmet_Green" chance="0.20" />
+				<item name="SkateHelmet_Red" chance="0.20" />
+				<item name="SkateHelmet_Black" chance="0.20" />
+		</attachments>
+		<!-- -------------------------  INDUSTRIAL ATTACHMENTS  ------------------------- -->
+		<attachments chance="0.30" name="hatsIndustrial">
+				<item name="ConstructionHelmet_Blue" chance="0.10" />
+				<item name="ConstructionHelmet_Lime" chance="0.10" />
+				<item name="ConstructionHelmet_Orange" chance="0.10" />
+				<item name="ConstructionHelmet_Red" chance="0.10" />
+				<item name="ConstructionHelmet_White" chance="0.10" />
+				<item name="ConstructionHelmet_Yellow" chance="0.10" />
+				<item name="WeldingMask" chance="0.05" />
+		</attachments>
+		<attachments chance="0.15" name="handsIndustrial">
+				<item name="Pipe" chance="0.15" />
+				<item name="Crowbar" chance="0.15" />
+				<item name="Sledgehammer" chance="0.15" />
+		</attachments>
+		<attachments chance="0.10" name="vestsIndustrial">
+			<item name="ReflexVest" chance="1.00" />
+		</attachments>
+		<attachments chance="0.05" name="bagsIndustrial">
+			<item name="DryBag_Orange" chance="0.20" />
+			<item name="DryBag_Yellow" chance="0.20" />
+			<item name="DryBag_Blue" chance="0.20" />
+			<item name="DryBag_Green" chance="0.1" />
+			<item name="DryBag_Black" chance="0.1" />
+			<item name="DryBag_Red" chance="0.20" />
+		</attachments>
+		
+		<!-- -------------------------  FIREFIGHTER ATTACHMENTS  ------------------------- -->
+		<attachments chance="0.40" name="hatsFirefighter">
+				<item name="FirefightersHelmet_Red" chance="0.35" />
+				<item name="FirefightersHelmet_White" chance="0.35" />
+				<item name="FirefightersHelmet_Yellow" chance="0.35" />
+		</attachments>
+
+		<!-- -------------------------  MEDIC ATTACHMENTS  ------------------------- -->
+		<attachments chance="0.80" name="hatsMedic">
+				<item name="MedicalScrubsHat_Blue" chance="0.35" />
+				<item name="MedicalScrubsHat_Green" chance="0.35" />
+				<item name="MedicalScrubsHat_White" chance="0.35" />
+		</attachments>
+
+		<!-- -------------------------  ARMY ATTACHMENTS  ------------------------- -->
+		<attachments chance="0.60" name="hatsArmy">
+			<!--<item name="SantasHat" chance="0.70" /> -->
+		<item name="TankerHelmet" chance="0.10" />
+			<item name="PilotkaCap" chance="0.10" />
+			<item name="MilitaryBeret_Red" chance="0.10" />
+			<item name="MilitaryBeret_UN" chance="0.10" />
+			<item name="MilitaryBeret_NZ" chance="0.10" />
+			<item name="MilitaryBeret_ChDKZ" chance="0.05" />
+			<item name="MilitaryBeret_CDF" chance="0.05" />
+			<item name="ZSh3PilotHelmet" chance="0.05" />
+			<item name="Ssh68Helmet" chance="0.05" />
+			<item name="NVGHeadstrap" chance="0.01" />
+		</attachments>
+		<attachments chance="0.00" name="glassesArmy"> <!--was chance="0.10"; removed coz of attachment slot is missing -->
+			<item name="TacticalGoggles" chance="0.10" />
+			<item name="AviatorGlasses" chance="0.25" />
+		</attachments>
+		<attachments chance="0.20" name="vestsArmy">
+			<item name="UKAssVest_Black" chance="0.20" />
+			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="PlateCarrierVest" chance="0.05" />
+			<item name="SmershVest" chance="0.05" />
+		</attachments>
+		<attachments chance="0.15" name="bagsArmy">
+			<item name="AssaultBag_Green" chance="0.10" />
+			<item name="AssaultBag_Ttsko" chance="0.10" />
+			<item name="AssaultBag_Black" chance="0.10" />
+			<item name="AliceBag_Camo" chance="0.05" />
+			<item name="AliceBag_Green" chance="0.05" />
+			<item name="AliceBag_Black" chance="0.05" />
+			<item name="TortillaBag" chance="0.05" />
+			<item name="SmershBag" chance="0.05" />
+			<item name="CoyoteBag_Brown" chance="0.01" />
+			<item name="CoyoteBag_Green" chance="0.01" />
+		</attachments>
+
+		<!-- -------------------------  POLICE ATTACHMENTS  ------------------------- -->
+		<attachments chance="1" name="hatsPolice">
+				<item name="PoliceCap" chance="0.80" />
+				<item name="OfficerHat" chance="0.20" />
+		</attachments>
+		<attachments chance="1" name="vestsPolice">
+				<item name="PoliceVest" chance="1.00" />
+		</attachments>
+		
+		<!-- -------------------------  PRISONER ATTACHMENTS  ------------------------- -->
+		<attachments chance="0.20" name="hatsPrisoner">
+				<item name="PrisonerCap" chance="1.00" />
+		</attachments>
+
+		<!-- -------------------------  UNIVERSAL ATTACHMENTS  ------------------------- -->
+		<attachments chance="0.20" name="hatsMotorbike">
+				<item name="MotoHelmet_Black" chance="0.10" />
+				<item name="MotoHelmet_Blue" chance="0.10" />
+				<item name="MotoHelmet_Green" chance="0.10" />
+				<item name="MotoHelmet_Grey" chance="0.10" />
+				<item name="MotoHelmet_Lime" chance="0.10" />
+				<item name="MotoHelmet_Red" chance="0.10" />
+				<item name="MotoHelmet_White" chance="0.10" />
+				<item name="DarkMotoHelmet_Black" chance="0.05" />
+				<item name="DarkMotoHelmet_Blue" chance="0.05" />
+				<item name="DarkMotoHelmet_Green" chance="0.05" />
+				<item name="DarkMotoHelmet_Grey" chance="0.05" />
+				<item name="DarkMotoHelmet_Lime" chance="0.05" />
+				<item name="DarkMotoHelmet_Red" chance="0.05" />
+				<item name="DarkMotoHelmet_White" chance="0.05" />
+		</attachments>
+		<attachments chance="0.20" name="vestsPress">
+				<item name="PressVest_Blue" chance="0.25" />
+				<item name="PressVest_LightBlue" chance="0.25" />
+		</attachments>
+		
+		<!-- -------------------------  T1 GEAR  ------------------------- -->
+		<cargo chance="0.15" name="drinks_T1">
+				<item name="SodaCan_Cola" chance="0.10" />
+				<item name="SodaCan_Pipsi" chance="0.10" />
+				<item name="SodaCan_Spite" chance="0.10" />
+				<item name="SodaCan_Kvass" chance="0.10" />
+				<item name="WaterBottle" chance="0.1" />
+		</cargo>
+		<cargo chance="0.22" name="food_T1">		
+				<item name="HumanSteakMeat" chance="0.03" />
+				<item name="Guts" chance="0.03" />
+				<item name="Potato" chance="0.1" />
+				<item name="Zucchini" chance="0.1" />
+				<item name="Tomato" chance="0.1" />
+				<item name="GreenBellPepper" chance="0.1" />
+				<item name="PowderedMilk" chance="0.1" />
+				<item name="TunaCan" chance="0.3" />
+		</cargo>
+		<cargo chance="0.25" name="toolsCommon_T1">
+				<item name="Matchbox" chance="0.1" />
+				<item name="SteakKnife" chance="0.2" />
+				<item name="KitchenKnife" chance="0.1" />
+				<item name="FryingPan" chance="0.20" />
+				<item name="Rag" chance="0.15" />
+				<item name="Pot" chance="0.05" />
+		</cargo>
+		<cargo chance="0.15" name="toolsIndustrial_T1">
+				<item name="Rag" chance="0.1" />
+				<item name="Crowbar" chance="0.1" />
+				<item name="Hammer" chance="0.2" />
+				<item name="Screwdriver" chance="0.15" />
+				<item name="Hatchet" chance="0.05" />
+
+				<item name="Paper" chance="0.2" />
+				<item name="Pipe" chance="0.2" />
+		</cargo>
+		
+		<!-- ------------------------- T1 Attachments  ------------------------- -->
+		<attachments chance="0.2" name="helmetsCommon_T1">
+				<item name="SkateHelmet_Black" chance="0.1" />
+				<item name="SkateHelmet_Blue" chance="0.1" />
+				<item name="SkateHelmet_Gray" chance="0.1" />
+				<item name="SkateHelmet_Green" chance="0.1" />
+				<item name="SkateHelmet_Red" chance="0.1" />
+		</attachments>
+		<attachments chance="0.2" name="hatsCommon_T1">
+				<item name="BoonieHat_Blue" chance="0.05" />
+				<item name="BoonieHat_Orange" chance="0.1" />
+				<item name="BoonieHat_Red" chance="0.1" />
+				<item name="RadarCap_Black" chance="0.05" />
+				<item name="RadarCap_Blue" chance="0.1" />
+				<item name="RadarCap_Brown" chance="0.05" />
+				<item name="RadarCap_Green" chance="0.1" />
+				<item name="RadarCap_Red" chance="0.1" />
+		</attachments>
+		<attachments chance="0.17" name="backpacks_T1">
+				<item name="CourierBag" chance="0.2" />
+				<item name="TaloonBag_Blue" chance="0.2" />
+				<item name="TaloonBag_Green" chance="0.1" />
+				<item name="TaloonBag_Orange" chance="0.2" />
+				<item name="TaloonBag_Violet" chance="0.2" />
+				<item name="FurCourierBag" chance="0.1" />
+		</attachments>
+</randompresets>
