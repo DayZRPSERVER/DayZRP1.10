@@ -446,7 +446,7 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="10713.47" z="8096.12" r="100"/> <!-- N Polana By Church-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="13" x="2739.09" z="9972.27" r="100"/> <!-- Lopatino Center of Village-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="2201.42" z="11117.30" r="100"/> <!-- Vavilovo By Water pump-->
-        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="11210.27" z="14375.69" r="80"/> <!-- Novodmitrovsk SW Factory Areas-->
+        <!-- <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="11210.27" z="14375.69" r="80"/> Novodmitrovsk SW Factory Areas-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="9773.63" z="8798.09" r="80"/> <!-- E Gorka-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4742.26" z="6772.94" r="100"/> <!-- Rogovo Center of Village-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4458" z="6417.86" r="80"/> <!-- Pogorevka Center of Village-->
@@ -582,7 +582,7 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="4" x="11753.6" z="12171.4" r="50"/> <!-- Far E Krasnostav-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="6525.26" z="3058.57" r="80"/> <!-- Cherno Near Roundabout-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="13" x="6193.13" z="2938.13" r="80"/> <!-- S Novoselki by Police Station-->
-        <!--<zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="7" x="1370" z="4067.5" r="70"/>  NW Pavlovo Farms--><!--TENGA HOUSエリア内-->
+		     <!--    <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="7" x="1370" z="4067.5" r="70"/>NW Pavlovo Farms--> 
         <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="729" z="4605" r="50"/> <!-- SE Svir-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="318" z="4608" r="50"/> <!-- SW Svir-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="8" x="909" z="2004" r="60"/> <!-- Bay Tikhaya Car Pile up-->
@@ -639,7 +639,7 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="10713.47" z="8096.12" r="100"/> <!-- N Polana By Church-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="13" x="2739.09" z="9972.27" r="100"/> <!-- Lopatino Center of Village-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="2201.42" z="11117.30" r="100"/> <!-- Vavilovo By Water pump-->
-        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="11210.27" z="14375.69" r="80"/> <!-- Novodmitrovsk SW Factory Areas-->
+        <!-- <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="11210.27" z="14375.69" r="80"/> Novodmitrovsk SW Factory Areas-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="9773.63" z="8798.09" r="80"/> <!-- E Gorka-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4742.26" z="6772.94" r="100"/> <!-- Rogovo Center of Village-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4458" z="6417.86" r="80"/> <!-- Pogorevka Center of Village-->
@@ -775,7 +775,7 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="4" x="11753.6" z="12171.4" r="50"/> <!-- Far E Krasnostav-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="6525.26" z="3058.57" r="80"/> <!-- Cherno Near Roundabout-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="13" x="6193.13" z="2938.13" r="80"/> <!-- S Novoselki by Police Station-->
-     <!--    <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="1" x="1370" z="4067.5" r="70"/> NW Pavlovo Farms--><!--TENGA HOUSエリア内-->
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="1" x="1370" z="4067.5" r="70"/> <!-- NW Pavlovo Farms-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="729" z="4605" r="50"/> <!-- SE Svir-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="318" z="4608" r="50"/> <!-- SW Svir-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="8" x="909" z="2004" r="60"/> <!-- Bay Tikhaya Car Pile up-->
