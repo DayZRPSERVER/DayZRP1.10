@@ -51,8 +51,8 @@
 		<cargo preset="vestsArmy2" />
 		<cargo chance="1"><item name="AmmoBox_45ACP_25rnd" /></cargo>	
 		<cargo chance="1"><item name="FNX45" />
-			<attachments chance="1"><item name="Mag_FNX45_15Rnd" chance="1.00" />
-			</attachments>
+		<attachments chance="1"><item name="Mag_FNX45_15Rnd" chance="1.00" />
+		</attachments>
 		</cargo>	
 		<cargo chance="1"><item name="Mag_1911_7Rnd" /></cargo>
 	</type>
@@ -62,6 +62,7 @@
 		<cargo preset="hatsArmy1" />
 		<cargo preset="vestsArmy1" />
 		<cargo preset="sidearm2" />
+		<cargo chance="0.3"><item name="ChainSaw" /></cargo>	
 		<cargo chance="1"><item name="AmmoBox_45ACP_25rnd" /></cargo>	
 		<cargo chance="1"><item name="Mag_FNX45_15Rnd" /></cargo>	
 		<cargo chance="1"><item name="Mag_1911_7Rnd" /></cargo>
