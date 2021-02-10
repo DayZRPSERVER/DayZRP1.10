@@ -71,14 +71,20 @@
         </generator_params>
 
         <!-- centers for grids of spawn points -->
-        <generator_posbubbles>	
-			<pos x="10156.41" z="5203.77" /><!--stroe-->
-			<pos x="6639.01" z="14398.05" /><!--kamensk-->
-			<pos x="1679.84" z="3874.26" /><!--pavlovo-->
-			<pos x="4479.76" z="9372.16" /><!--NWAF-->
-			<pos x="4975.58" z="10353.13" /><!--NWAF-->
-			<pos x="3570.27" z="11178.06" /><!--NWAF-->
-			<pos x="5304.18" z="9345.91" /><!--NWAF-->
+        <generator_posbubbles>
+			<pos x="12181.98" z="9026.05" /><!--berezino SE-->
+			<pos x="11964.20" z="8881.68" /><!--berezino S-->
+			<pos x="12041.01" z="9261.82" /><!--berezino NE-->
+			<pos x="11706.57" z="9196.68" /><!--berezino NW-->
+			<!--<pos x="10156.41" z="5203.77" />stroe-->
+			<!--<pos x="1679.84" z="3874.26" />pavlovo-->
+			<pos x="5079.12" z="10310.84" /><!--NWAF E-->
+			<pos x="4479.76" z="10456.67" /><!--NWAF Center-->
+			<!--<pos x="6639.01" z="14398.05" />kamensk-->
+			<!--<pos x="4479.76" z="9372.16" />NWAF-->
+			<!--<pos x="4975.58" z="10353.13" />NWAF-->
+			<!--<pos x="3570.27" z="11178.06" />NWAF-->
+			<!--<pos x="5304.18" z="9345.91" />NWAF-->
 		<!--    <pos x="8294.81" z="2915.43" />
 		        <pos x="6052.60" z="1868.23" />
 		        <pos x="8212.17" z="2781.53" />

@@ -292,7 +292,7 @@
 				<item name="HuntingKnife" chance="0.10" />
 				<item name="BandageDressing" chance="0.10" />
 		</cargo>
-		<cargo chance="0.3" name="foodVillage">
+		<cargo chance="0.15" name="foodVillage">
 				<item name="SodaCan_Cola" chance="0.05" />
 				<item name="SodaCan_Pipsi" chance="0.05" />
 				<item name="SodaCan_Spite" chance="0.05" />
@@ -312,7 +312,7 @@
 				<item name="SpaghettiCan" chance="0.10" />
 				<item name="BakedBeansCan" chance="0.10" />
 		</cargo>
-		<cargo chance="0.2" name="foodArmy">
+		<cargo chance="0.10" name="foodArmy">
 				<item name="SodaCan_Cola" chance="0.05" />
 				<item name="SodaCan_Pipsi" chance="0.05" />
 				<item name="SodaCan_Spite" chance="0.05" />

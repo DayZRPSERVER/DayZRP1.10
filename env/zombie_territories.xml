@@ -128,13 +128,13 @@
 		<zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="14" x="10384.39" z="2207.39" r="90"/> <!--Elektro Past Firestation--><!-- セーフ -->
 		<zone name="InfectedCity" smin="0" smax="0" dmin="5" dmax="12" x="10085.5" z="1883.76" r="80"/> <!--Elektro Docks--><!-- セーフ -->
 		<zone name="InfectedCity" smin="0" smax="0" dmin="7" dmax="15" x="10494.1" z="2294.12" r="80"/> <!--Middle of Elektro--><!-- セーフ -->
-        <zone name="InfectedCity" smin="0" smax="0" dmin="5" dmax="12" x="12211.7" z="9732.79" r="80"/> <!--Berezino School--><!---->
-        <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="14" x="11951.4" z="9098.72" r="80"/> <!--Berezino Crane--><!---->
+        <!--<zone name="InfectedCity" smin="0" smax="0" dmin="5" dmax="12" x="12211.7" z="9732.79" r="80"/> Berezino School--><!--vP-->
+        <!--<zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="14" x="11951.4" z="9098.72" r="80"/> Berezino Crane--><!--vP-->
         <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="14" x="12890.3" z="10072.1" r="80"/> <!--Middle of Lumber Mill-->
         <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="13" x="12727.5" z="9845" r="90"/> <!--Lumber Mill Factories-->
         <zone name="InfectedCity" smin="0" smax="0" dmin="4" dmax="10" x="12657.5" z="9502.5" r="90"/> <!--Lumber Mill Orchards-->
         <zone name="InfectedCity" smin="0" smax="0" dmin="5" dmax="13" x="12170" z="9477" r="80"/> <!--Town between Berezino and Lumber Mill-->
-        <zone name="InfectedCity" smin="0" smax="0" dmin="5" dmax="13" x="12387.5" z="9545" r="80"/> <!--Town between Berezino and Lumber Mill-->
+        <!--<zone name="InfectedCity" smin="0" smax="0" dmin="5" dmax="13" x="12387.5" z="9545" r="80"/> Town between Berezino and Lumber Mill-->
         <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="8" x="7765.09" z="12650.8" r="80"/> <!--Severograd By Police Station-->
         <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="8" x="8041.88" z="12730.21" r="80"/> <!--Severograd By Hospital-->
         <zone name="InfectedCity" smin="0" smax="0" dmin="6" dmax="15" x="3357.72" z="13141.2" r="80"/> <!--Novaya Petrovka W of Clinic-->
@@ -172,11 +172,11 @@
         <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="6832.29" z="3656.07" r="60"/> <!--Dubky Office Buildings-->
         <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="6117.6" z="3131.65" r="60"/> <!--Novoselky apts-->
         <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="5851.79" z="2592.5" r="60"/> <!--Vysotovo Middle-->
-        <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="12004" z="9174.80" r="60"/> <!--DYNAMIC HOT ZONE Berezino City Entrance--><!---->
+        <!--<zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="12004" z="9174.80" r="60"/> DYNAMIC HOT ZONE Berezino City Entrance--><!---->
         <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="12846.47" z="10152.85" r="60"/> <!--Lumber mill, center-->
         <zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="12" x="12727.5" z="9845" r="60"/> <!--Lumber Mill SW-->
-        <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="12004.55" z="9050.36" r="60"/><!----> <!--Berezino City-->
-        <zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="12047.33" z="9106.75" r="60"/> <!--Berezino Near PD--><!---->
+        <!--<zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="12004.55" z="9050.36" r="60"/> Berezino City-->
+        <!--<zone name="InfectedCity" smin="0" smax="0" dmin="1" dmax="8" x="12047.33" z="9106.75" r="60"/> Berezino Near PD--><!---->
 		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="2664.42" z="5191.55" r="60"/> <!--Zeleno By Grocery-->
 		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="2734.67" z="5279.61" r="60"/> <!--Zeleno Middle-->
 		<zone name="InfectedCity" smin="0" smax="0" dmin="3" dmax="7" x="2793.00" z="5393.36" r="60"/> <!--Zeleno N Entrance-->
@@ -289,7 +289,7 @@
 		<zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="5" x="2740.16" z="5180.91" r="40"/> <!--Zelenogorsk Clinic--><!-- セーフ -->
 		<zone name="InfectedMedic" smin="0" smax="0" dmin="3" dmax="7" x="10283.9" z="2286.79" r="50"/> <!--Elektro Hospital--><!-- セーフ -->
 	    <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="4" x="12780" z="10056" r="40"/> <!--Lumber Mill Clinic-->
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="6" x="11924.6" z="9069.43" r="50"/> <!--Berezino Hospital--><!---->
+        <!--<zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="6" x="11924.6" z="9069.43" r="50"/> Berezino Hospital--><!---->
         <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="5" x="13880.40" z="13128.82" r="40"/> <!--Svetlojarsk Clinic-->
 		<zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="4" x="9480" z="8841" r="40"/> <!--Gorka Clinic-->
         <zone name="InfectedMedic" smin="0" smax="0" dmin="3" dmax="8" x="11415" z="14611.1" r="40"/> <!--Novodmitrovsk Hospital-->

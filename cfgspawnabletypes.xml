@@ -25,7 +25,18 @@
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsMedic" />
 	</type>
-	<type name="AssaultBag_Green"><!-- プレイヤー補助バッグセット1 -->
+
+	<!-- 軍系アイテムTier1 -->
+	<type name="AssaultBag_Green">
+		<cargo preset="hatsArmy3" />
+		<cargo preset="vestsArmy2" />
+		<cargo preset="sidearm2" />
+		<cargo chance="1"><item name="VSS" />
+			<attachments chance="1"><item name="KashtanOptic" chance="1.00" /></attachments>
+			<attachments chance="1"><item name="Mag_VSS_10Rnd" chance="1.00" /></attachments>
+		</cargo>
+	</type>
+	<type name="AssaultBag_Ttsko"><!-- アイテム装備テスト -->
 		<cargo preset="hatsArmy3" />
 		<cargo preset="vestsArmy2" />
 		<cargo chance="1"><item name="AmmoBox_45ACP_25rnd" /></cargo>	
@@ -35,41 +46,44 @@
 		</cargo>	
 		<cargo chance="1"><item name="Mag_1911_7Rnd" /></cargo>
 	</type>
-	
 	<type name="AssaultBag_Black">
 		<cargo preset="hatsArmy3" />
 		<cargo preset="vestsArmy2" />
+		<cargo preset="sidearm2" />
 		<cargo chance="1"><item name="AmmoBox_45ACP_25rnd" /></cargo>	
-		<cargo chance="1"><item name="FNX45" />
-			<attachments chance="1"><item name="Mag_FNX45_15Rnd" chance="1.00" />
-			</attachments>
-		</cargo>	
+		<cargo chance="1"><item name="Mag_FNX45_15Rnd" /></cargo>	
 		<cargo chance="1"><item name="Mag_1911_7Rnd" /></cargo>
 	</type>
-	<type name="AssaultBag_Ttsko">
-		<cargo preset="hatsArmy3" />
+	<!-- 軍系アイテムTier2 -->
+	<type name="CoyoteBag_Brown">
+		<cargo preset="hatsArmy2" />
 		<cargo preset="vestsArmy2" />
 		<cargo chance="1"><item name="AmmoBox_45ACP_25rnd" /></cargo>	
-		<cargo chance="1"><item name="FNX45" />
-		<attachments chance="1"><item name="Mag_FNX45_15Rnd" chance="1.00" />
-		</attachments>
-		</cargo>	
+		<cargo chance="1"><item name="Mag_FNX45_15Rnd" /></cargo>	
 		<cargo chance="1"><item name="Mag_1911_7Rnd" /></cargo>
+	</type>	
+	<type name="CoyoteBag_Green">
+		<cargo preset="hatsArmy2" />
+		<cargo preset="vestsArmy2" />
+		<cargo chance="1"><item name="AmmoBox_45ACP_25rnd" /></cargo>	
+		<cargo chance="1"><item name="Mag_FNX45_15Rnd" /></cargo>	
+		<cargo chance="1"><item name="Mag_1911_7Rnd" /></cargo>
+	</type>	
+	<type name="TortillaBag">
+		<cargo preset="hatsArmy2" />
+		<cargo preset="vestsArmy2" />
 	</type>
+	<!-- 軍系アイテムTier3 -->
 	<type name="AliceBag_Black">
-		<cargo preset="hatsArmy3" />
-		<cargo preset="vestsArmy2" />
 		<cargo preset="hatsArmy1" />
 		<cargo preset="vestsArmy1" />
 		<cargo preset="sidearm2" />
-		<cargo chance="0.3"><item name="ChainSaw" /></cargo>	
+		<cargo chance="1"><item name="ChainSaw" /></cargo>
 		<cargo chance="1"><item name="AmmoBox_45ACP_25rnd" /></cargo>	
 		<cargo chance="1"><item name="Mag_FNX45_15Rnd" /></cargo>	
 		<cargo chance="1"><item name="Mag_1911_7Rnd" /></cargo>
 	</type>
 	<type name="AliceBag_Camo">
-		<cargo preset="hatsArmy3" />
-		<cargo preset="vestsArmy2" />
 		<cargo preset="hatsArmy1" />
 		<cargo preset="vestsArmy1" />
 		<cargo preset="sidearm2" />
@@ -78,12 +92,9 @@
 		<cargo chance="1"><item name="Mag_1911_7Rnd" /></cargo>
 	</type>
 	<type name="AliceBag_Green">
-		<cargo preset="hatsArmy3" />
-		<cargo preset="vestsArmy2" />
 		<cargo preset="hatsArmy1" />
 		<cargo preset="vestsArmy1" />
 		<cargo preset="sidearm2" />
-		<cargo chance="0.4"><item name="WeaponCleaningKit" /></cargo>	
 		<cargo chance="1"><item name="AmmoBox_45ACP_25rnd" /></cargo>	
 		<cargo chance="1"><item name="Mag_FNX45_15Rnd" /></cargo>	
 		<cargo chance="1"><item name="Mag_1911_7Rnd" /></cargo>
@@ -111,7 +122,7 @@
 	</type>
 	<type name="SmallProtectorCase">
 		<cargo preset="optics" />
-		<cargo preset="foodCity" />
+		<cargo preset="grenades" />
 		<cargo preset="grenades2" />
 		
 	</type>

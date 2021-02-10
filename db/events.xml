@@ -79,44 +79,110 @@
 			<child lootmax="0" lootmin="0" max="1" min="0" type="M4A1"/>
 			<child lootmax="0" lootmin="0" max="1" min="1" type="AK101"/>
 			<child lootmax="0" lootmin="0" max="1" min="2" type="AKM"/>
-			<child lootmax="0" lootmin="0" max="0" min="0" type="VSS"/>
-			<child lootmax="0" lootmin="0" max="0" min="0" type="SVD"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="VSS"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="SVD"/>
             <child lootmax="0" lootmin="0" max="10" min="5" type="AmmoBox"/>
             <child lootmax="0" lootmin="0" max="5" min="1" type="SmallProtectorCase"/>
 			<child lootmax="0" lootmin="0" max="5" min="1" type="WoodenCrate"/>
         </children>
     </event>
-    <event name="Itembag4"><!-- nwaf -->
+<event name="Itembagstart"><!-- NWAF -->
         <nominal>70</nominal>
         <min>60</min>
-        <max>70</max>
-        <lifetime>300</lifetime>
+        <max>83</max>
+        <lifetime>60</lifetime>
         <restock>60</restock>
-        <saferadius>3</saferadius>
+        <saferadius>5</saferadius>
         <distanceradius>5</distanceradius>
-        <cleanupradius>20</cleanupradius>
+        <cleanupradius>5</cleanupradius>
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
         <active>1</active>
         <children>
-			<child lootmax="0" lootmin="0" max="5" min="3" type="AKM"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="CZ527"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="AssaultBag_Black"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="AssaultBag_Ttsko"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="AliceBag_Black"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="AliceBag_Camo"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="AliceBag_Green"/>
-			<child lootmax="0" lootmin="0" max="5" min="3" type="FirstAidKit"/>
-			<child lootmax="0" lootmin="0" max="5" min="3" type="AK74"/>
-			<child lootmax="0" lootmin="0" max="3" min="3" type="MP5K"/>
-			<child lootmax="0" lootmin="0" max="3" min="3" type="UMP45"/>
-			<child lootmax="0" lootmin="0" max="5" min="3" type="AKS74U"/>
-			<child lootmax="0" lootmin="0" max="0" min="0" type="M4A1"/>
-			<child lootmax="0" lootmin="0" max="1" min="1" type="AK101"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="WeaponCleaningKit"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="LargeTent"/>
-            <child lootmax="0" lootmin="0" max="10" min="10" type="AmmoBox"/>
+			<child lootmax="0" lootmin="0" max="3" min="3" type="TaloonBag_Blue"/>
+			<child lootmax="0" lootmin="0" max="3" min="3" type="TaloonBag_Green"/>
+			<child lootmax="0" lootmin="0" max="3" min="3" type="TaloonBag_Orange"/>
+			<child lootmax="0" lootmin="0" max="3" min="3" type="TaloonBag_Violet"/>
+			<child lootmax="0" lootmin="0" max="7" min="7" type="WoodenCrate"/>
+        </children>
+    </event>
+
+    <event name="Itembagmiltier1"><!-- NWAF -->
+        <nominal>70</nominal>
+        <min>60</min>
+        <max>83</max>
+        <lifetime>60</lifetime>
+        <restock>60</restock>
+        <saferadius>5</saferadius>
+        <distanceradius>5</distanceradius>
+        <cleanupradius>5</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+			<child lootmax="0" lootmin="0" max="3" min="3" type="AssaultBag_Green"/>
+			<child lootmax="0" lootmin="0" max="3" min="3" type="AssaultBag_Black"/>
+			<child lootmax="0" lootmin="0" max="3" min="3" type="AssaultBag_Ttsko"/>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="Glock19"/>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="FNX45"/>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="MP5K"/>			
+			<child lootmax="0" lootmin="0" max="5" min="3" type="CZ61"/>
+			<child lootmax="0" lootmin="0" max="5" min="3" type="MP5K"/>
+        </children>
+    </event>
+    <event name="Itembagmiltier2"><!-- NWAF -->
+        <nominal>70</nominal>
+        <min>60</min>
+        <max>83</max>
+        <lifetime>60</lifetime>
+        <restock>60</restock>
+        <saferadius>5</saferadius>
+        <distanceradius>5</distanceradius>
+        <cleanupradius>5</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+			<child lootmax="0" lootmin="0" max="3" min="3" type="CoyoteBag_Brown"/>
+			<child lootmax="0" lootmin="0" max="3" min="3" type="CoyoteBag_Green"/>
+			<child lootmax="0" lootmin="0" max="3" min="3" type="TortillaBag"/>
+			<child lootmax="0" lootmin="0" max="3" min="3" type="Deagle"/>
+			<child lootmax="0" lootmin="0" max="5" min="5" type="Saiga"/>
+			<child lootmax="0" lootmin="0" max="5" min="5" type="AKM"/>
+			<child lootmax="0" lootmin="0" max="5" min="5" type="AK74"/>
+			<child lootmax="0" lootmin="0" max="5" min="5" type="UMP45"/>
+            <child lootmax="0" lootmin="0" max="5" min="5" type="AmmoBox"/>
+            <child lootmax="0" lootmin="0" max="3" min="3" type="SmallProtectorCase"/>
+        </children>
+    </event>
+    <event name="Itembagmiltier3"><!-- NWAF -->
+        <nominal>70</nominal>
+        <min>60</min>
+        <max>83</max>
+        <lifetime>60</lifetime>
+        <restock>60</restock>
+        <saferadius>5</saferadius>
+        <distanceradius>5</distanceradius>
+        <cleanupradius>5</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+			<child lootmax="0" lootmin="0" max="1" min="1" type="AliceBag_Black"/>
+			<child lootmax="0" lootmin="0" max="1" min="1" type="AliceBag_Green"/>
+			<child lootmax="0" lootmin="0" max="1" min="1" type="AliceBag_Camo"/>
+			<child lootmax="0" lootmin="0" max="3" min="3" type="FirstAidKit"/>
+			<child lootmax="0" lootmin="0" max="3" min="3" type="Deagle"/>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="M4A1"/>
+			<child lootmax="0" lootmin="0" max="5" min="5" type="AK101"/>
+			<child lootmax="0" lootmin="0" max="2" min="2" type="FAL"/>
+			<child lootmax="0" lootmin="0" max="3" min="3" type="AmmoBox"/>
+            <child lootmax="0" lootmin="0" max="2" min="2" type="SmallProtectorCase"/>
+			<child lootmax="0" lootmin="0" max="1" min="1" type="SeaChest"/>
         </children>
     </event>
 	    <event name="Itembag8931"><!-- HotZone2 -->
@@ -131,7 +197,7 @@
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
 			<child lootmax="0" lootmin="0" max="2" min="0" type="FAL"/>
 			<child lootmax="0" lootmin="0" max="3" min="0" type="BallisticHelmet_Black"/>

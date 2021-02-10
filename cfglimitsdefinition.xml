@@ -9,6 +9,7 @@
         <category name="weapons"/>
         <category name="books"/>
         <category name="explosives"/>
+		<category name="Bridge"/>
     </categories>
     <tags>
         <tag name="floor"/>
@@ -16,6 +17,7 @@
         <tag name="ground"/>
     </tags>
     <usageflags>
+		<usage name="Parts"/>
         <usage name="Military"/>
         <usage name="Police"/>
         <usage name="Medic"/>
