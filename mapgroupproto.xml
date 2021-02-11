@@ -15,7 +15,15 @@
 				<default name="clusterMatrix" de="TrajectoryStumps" width="12" height="12"/>
 -->
 		</defaults>
-
+		<group name="Bridge1" lootmax="1">
+				<usage name="Parts" />
+				<container name="loot" lootmax="1">
+				<category name="Bridge"/>
+				</container>
+				<dispatch>
+				<proxy type="Land_CementWorks_ExpeditionC" pos="0.00000 0 0.00000" rpy="0.0 0.0 0.0" />
+				</dispatch>
+		</group>
 		<group name="Land_Shed_M1" lootmax="2">
 				<usage name="Industrial" />
 				<usage name="Farm" />

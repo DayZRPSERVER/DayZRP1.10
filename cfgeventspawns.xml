@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
+	<event name="StaticLand_CementWorks_ExpeditionC">
+        <pos x="4606.955078" z="9965.651367" a="332" />
+		</event>
+		<event name="StaticLand_CementWorks_ExpeditionB">
+        <pos x="4599.752441" z="9940.408203" a="330" />
+		</event>
 	<event name="Itemnpc3">
 		<pos x="7588.3" z="12687.3" a="0" />
 		</event>
@@ -23,6 +29,100 @@
 	<event name="StaticHeliCrash2">
 		<pos x="11883.03" z="9138.34" a="0" />
 	</event>
+		
+
+
+
+<pos x="4368" z="10580" a="240" /></event>
+<event name="Staticcontna1"><pos x="4375" z="10594" a="330" /></event>
+<event name="Staticcontna2"><pos x="4360" z="10616" a="330" /></event>
+<event name="Staticcontna3"><pos x="4343" z="10607" a="240" /></event>
+<event name="Staticcontna4"><pos x="4319" z="10545" a="330" /></event>
+<event name="Staticcontna5"><pos x="4314" z="10553" a="330" /></event>
+<event name="Staticcontna6"><pos x="4331" z="10545" a="330" /></event>
+<event name="Staticcontna7"><pos x="4324" z="10567" a="330" /></event>
+<event name="Staticcontna8"><pos x="4317" z="10561" a="330" /></event>
+<event name="Staticcontna9"><pos x="4326" z="10555" a="330" /></event>
+<event name="Staticcontna10"><pos x="4328" z="10529" a="330" /></event>
+<event name="Staticcontna11"><pos x="4324" z="10539" a="240" /></event>
+<event name="Staticcontna12"><pos x="4331" z="10553" a="240" /></event>
+<event name="Staticcontna13"><pos x="4322" z="10575" a="240" /></event>
+<event name="Staticcontna14"><pos x="4308" z="10568" a="330" /></event>
+<event name="Staticcontna15"><pos x="4340" z="10549" a="240" /></event>
+<event name="Staticcontna16"><pos x="4339" z="10571" a="240" /></event>
+<event name="Staticcontna17"><pos x="4327" z="10582" a="330" /></event>
+<event name="Staticcontna18"><pos x="4323" z="10548" a="330" /></event>
+<event name="Staticcontna19"><pos x="4310" z="10575" a="240" /></event>
+<event name="Staticcontna20"><pos x="4309" z="10584" a="240" /></event>
+<event name="Staticcontna21"><pos x="4317" z="10588" a="240" /></event>
+<event name="Staticcontna22"><pos x="4314" z="10579" a="330" /></event>
+<event name="Staticcontna23"><pos x="4335" z="10592" a="330" /></event>
+<event name="Staticcontna24"><pos x="4352" z="10558" a="330" /></event>
+<event name="Staticcontna25"><pos x="4316" z="10601" a="330" /></event>
+<event name="Staticcontna26"><pos x="4347" z="10576" a="240" /></event>
+<event name="Staticcontna27"><pos x="4326" z="10597" a="240" /></event>
+<event name="Staticcontna28"><pos x="4326" z="10589" a="240" /></event>
+<event name="Staticcontna29"><pos x="4342" z="10585" a="330" /></event>
+<event name="Staticcontna30"><pos x="4344" z="10560" a="240" /></event>
+<event name="Staticcontna31"><pos x="4336" z="10563" a="330" /></event>
+<event name="Staticcontna32"><pos x="4331" z="10571" a="240" /></event>
+<event name="Staticcontna33"><pos x="4352" z="10566" a="330" /></event>
+<event name="Staticcontna34"><pos x="4308" z="10597" a="330" /></event>
+<event name="Staticcontna35"><pos x="4292" z="10595" a="330" /></event>
+<event name="Staticcontna36"><pos x="4282" z="10597" a="330" /></event>
+<event name="Staticcontna37"><pos x="4287" z="10604" a="330" /></event>
+<event name="Staticcontna38"><pos x="4281" z="10612" a="330" /></event>
+<event name="Staticcontna39"><pos x="4293" z="10610" a="330" /></event>
+<event name="Staticcontna40"><pos x="4294" z="10626" a="330" /></event>
+<event name="Staticcontna41"><pos x="4284" z="10624" a="330" /></event>
+<event name="Staticcontna42"><pos x="4303" z="10623" a="330" /></event>
+<event name="Staticcontna43"><pos x="4304" z="10613" a="330" /></event>
+<event name="Staticcontna44"><pos x="4306" z="10636" a="240" /></event>
+<event name="Staticcontna45"><pos x="4353" z="10585" a="330" /></event>
+<event name="Staticcontna46"><pos x="4300" z="10595" a="240" /></event>
+<event name="Staticcontna47"><pos x="4300" z="10585" a="330" /></event>
+<event name="Staticcontna48"><pos x="4301" z="10575" a="330" /></event>
+<event name="Staticcontna49"><pos x="4305" z="10555" a="330" /></event>
+<event name="Staticcontna50"><pos x="4318" z="10645" a="240" /></event>
+<event name="Staticcontna51"><pos x="4352" z="10627" a="330" /></event>
+<event name="Staticcontna52"><pos x="4329" z="10633" a="330" /></event>
+<event name="Staticcontna53"><pos x="4326" z="10614" a="0.00" /></event>
+<event name="Staticcontna54"><pos x="4332" z="10607" a="0.00" /></event>
+<event name="Staticcontna55"><pos x="4336" z="10601" a="0.00" /></event>
+<event name="Staticcontna56"><pos x="4339" z="10621" a="0.00" /></event>
+<event name="Staticcontna57"><pos x="4317" z="10632" a="0.00" /></event>
+<event name="Staticcontna58"><pos x="4334" z="10647" a="330" /></event>
+<event name="Staticcontna59"><pos x="4369" z="10638" a="0.00" /></event>
+<event name="Staticcontna60"><pos x="4358" z="10649" a="0.00" /></event>
+<event name="Staticcontna61"><pos x="4371" z="10608" a="0.00" /></event>
+<event name="Staticcontna62"><pos x="4400" z="10640" a="0.00" /></event>
+<event name="Staticcontna63"><pos x="4380" z="10653" a="0.00" /></event>
+<event name="Staticcontna64"><pos x="4367" z="10621" a="0.00" /></event>
+<event name="Staticcontna65"><pos x="4359" z="10574" a="0.00" /></event>
+<event name="Staticcontna66"><pos x="4423" z="10564" a="0.00" /></event>
+<event name="Staticcontna67"><pos x="4400" z="10609" a="0.00" /></event>
+<event name="Staticcontna68"><pos x="4387" z="10579" a="0.00" /></event>
+<event name="Staticcontna69"><pos x="4325" z="10561" a="330" /></event>
+<event name="Staticcontna70"><pos x="4344" z="10664" a="0.00" /></event>
+<event name="Staticcontna71"><pos x="4350" z="10545" a="240" /></event>
+<event name="Staticcontna72"><pos x="4366" z="10562" a="0.00" /></event>
+<event name="Staticcontna73"><pos x="4388" z="10559" a="0.00" /></event>
+<event name="Staticcontna74"><pos x="4351" z="10529" a="240" /></event>
+<event name="Staticcontna75"><pos x="4385" z="10548" a="240" /></event>
+<event name="Staticcontna76"><pos x="4400" z="10640" a="0.00" /></event>
+<event name="Staticcontna77"><pos x="4380" z="10653" a="0.00" /></event>
+<event name="Staticcontna78"><pos x="4367" z="10621" a="0.00" /></event>
+<event name="Staticcontna79"><pos x="4359" z="10574" a="0.00" /></event>
+<event name="Staticcontna80"><pos x="4423" z="10564" a="0.00" /></event>
+<event name="Staticcontna81"><pos x="4400" z="10609" a="0.00" /></event>
+<event name="Staticcontna82"><pos x="4387" z="10579" a="0.00" /></event>
+<event name="Staticcontna83"><pos x="4325" z="10561" a="330" /></event>
+<event name="Staticcontna84"><pos x="4344" z="10664" a="0.00" /></event>
+<event name="Staticcontna85"><pos x="4350" z="10545" a="240" /></event>
+<event name="Staticcontna86"><pos x="4366" z="10562" a="0.00" /></event>
+<event name="Staticcontna87"><pos x="4388" z="10559" a="0.00" /></event>
+<event name="Staticcontna88"><pos x="4351" z="10529" a="240" /></event>
+<event name="Staticcontna89"><pos x="4385" z="10548" a="240" /></event>
 	<event name="Itembagstart">
 		<pos x="4312.2" z="10359.3" a="339.0" />  <!--NSAF-->
 		<pos x="4389.3" z="10176" a="338.0" />  <!--NSAF-->  

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <map>
+<group name="Land_CementWorks_ExpeditionB" pos="4639.525391 344.708588 9957.445313" rpy="0.00000 0.000000 68.000000" a="0" />
+<group name="Land_CementWorks_ExpeditionC" pos="4615.842773 343.770325 9968.297852" rpy="0.00000 0.000000 -111.999969" a="0" />
     <group name="Land_Misc_FeedShack" pos="80.262581 113.793480 4422.178223" rpy="-0.000000 0.000000 -70.013718" a="160.013718" />
     <group name="Land_Misc_FeedShack" pos="80.261421 411.262756 10449.132813" rpy="-0.000000 0.000000 -58.923214" a="148.923203" />
     <group name="Land_Shed_W2" pos="174.522446 103.526039 2380.768066" rpy="-0.000000 0.000000 160.642838" a="-70.642845" />
