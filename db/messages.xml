@@ -18,8 +18,9 @@ Example messages:
 2) following message will be displayed every 15 minutes to every player-->
 
     <message>
-        <repeat>15</repeat>
-        <text> 1/21リスポン位置追加・その他隠し木箱追記他修正　</text>
+    	<delay>10</delay>
+        <repeat>60</repeat>
+        <text> 銀行システム・懸賞金システムが2月16日より正式稼動します。　</text>
     </message>
  
  <!--
@@ -27,10 +28,10 @@ Example messages:
 	and 10 minutes after player connect-->
 		
     <message>
-        <delay>20</delay>
-        <repeat>50</repeat>
+        <delay>10</delay>
+        <repeat>30</repeat>
         <onconnect>1</onconnect>
-        <text>スポーン調整中</text>
+        <text>ワイプ後にまたお会いしましょう</text>
     </message>
  
  <!--
@@ -38,9 +39,9 @@ Example messages:
 	and 2 minutes after player connect-->
     
     <message>
-        <delay>2</delay>
+        <delay>20</delay>
         <onconnect>1</onconnect>
-        <text>Welcome to #name  拠点を作成する場合問題回避の為共用Mapへ記入お願い致します。　Contact twitter@dayzjpn</text>
+        <text>ようこそ #name へ 本日17時に公式リセット前に1度サーバーリセットが行われます。 詳しくは twitter@dayzjpn</text>
     </message>
 	
 	
