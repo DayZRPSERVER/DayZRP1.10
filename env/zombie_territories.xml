@@ -48,20 +48,20 @@
         <zone name="InfectedVillageTier1" smin="0" smax="0" dmin="7" dmax="13" x="6464.38" z="3076.25" r="120"/>
     </territory>
     <territory color="1124502272">
-        <zone name="InfectedArmy" smin="3" smax="5" dmin="6" dmax="13" x="7992.86" z="14634.2" r="100"/> <!-- Troitskoe-->
-        <zone name="InfectedArmy" smin="4" smax="8" dmin="5" dmax="13" x="7827.86" z="14750.3" r="100"/> <!-- NW Troitskoe -->
-        <zone name="InfectedArmy" smin="4" smax="8" dmin="6" dmax="13" x="1673.04" z="14335.34" r="80"/> <!-- N Tisy-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="13" x="7992.86" z="14634.2" r="100"/> <!-- Troitskoe-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="13" x="7827.86" z="14750.3" r="100"/> <!-- NW Troitskoe -->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="13" x="1673.04" z="14335.34" r="80"/> <!-- N Tisy-->
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="6" x="620.333" z="13648.7" r="75"/> <!-- Far W Tisy-->
-        <zone name="InfectedArmy" smin="4" smax="8" dmin="6" dmax="14" x="1526.72" z="13597.43" r="100"/> <!-- S Tisy Compound Military Tents-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="14" x="1526.72" z="13597.43" r="100"/> <!-- S Tisy Compound Military Tents-->
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="1821" z="13816" r="80"/> <!-- S Tisy Ramps-->
         <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="6" x="1064" z="13897.5" r="80"/> <!-- W Tisy-->
         <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="12" x="1427" z="14453" r="80"/> <!-- NW Tisy 2 Barracks-->
         <zone name="InfectedArmy" smin="0" smax="0" dmin="0" dmax="1" x="2085.73" z="3487.81" r="60"/> <!-- N Pavlovo Single Barracks-->
         <zone name="InfectedArmy" smin="0" smax="0" dmin="0" dmax="1" x="1954.49" z="3403.71" r="60"/> <!-- W Pavlovo Single Barracks-->
-        <zone name="InfectedArmy" smin="4" smax="8" dmin="5" dmax="14" x="2184.23" z="3371.54" r="80"/> <!-- Pavlovo Military Base By Hospital-->
-        <zone name="InfectedArmy" smin="4" smax="8" dmin="6" dmax="12" x="4519.75" z="8303.5" r="90"/> <!-- Dichina Military Base Barracks-->
-        <zone name="InfectedArmy" smin="4" smax="8" dmin="5" dmax="10" x="1158.25" z="7236.92" r="80"/> <!-- W of Myshkino Military-->
-        <zone name="InfectedArmy" smin="4" smax="8" dmin="3" dmax="7" x="4866.70" z="2589.48" r="80"/> <!-- W Balota AF-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="14" x="2184.23" z="3371.54" r="80"/> <!-- Pavlovo Military Base By Hospital-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="12" x="4519.75" z="8303.5" r="90"/> <!-- Dichina Military Base Barracks-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="10" x="1158.25" z="7236.92" r="80"/> <!-- W of Myshkino Military-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="4866.70" z="2589.48" r="80"/> <!-- W Balota AF-->
         <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="10" x="2526.62" z="5111.41" r="100"/> <!-- Zelenogorsk Barracks-->
         <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="2703" z="6757.38" r="80"/> <!-- Pass Sosnovy-->
         <zone name="InfectedArmy" smin="0" smax="0" dmin="7" dmax="15" x="6333" z="7806" r="100"/> <!-- Stary Sobor Military Tents-->
@@ -79,26 +79,26 @@
         <zone name="InfectedArmy" smin="0" smax="0" dmin="1" dmax="4" x="3090" z="9990" r="60"/> <!-- Lopatino Nothing here?-->
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4063.29" z="11645.1" r="80"/> <!-- Far N of NWAF Compound by Forests-->
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="5368.35" z="9884.52" r="80"/> <!-- SE NWAF Boot Camp course-->
-		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="14" x="4627.5" z="10492.5" r="80"/> <!-- NWAF ATC-->
-		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="14" x="5309.53" z="9804.80" r="80"/> <!-- SE NWAF By 3 Barracks-->
-		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="15" x="4843.36" z="10333.20" r="80"/> <!-- NWAF S of ATC-->
-		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="12" x="4297.96" z="10161.12" r="80"/> <!-- W NWAF 2 Barracks-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="14" x="4627.5" z="10492.5" r="80"/> <!-- NWAF ATC-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="14" x="5309.53" z="9804.80" r="80"/> <!-- SE NWAF By 3 Barracks-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="15" x="4843.36" z="10333.20" r="80"/> <!-- NWAF S of ATC-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="12" x="4297.96" z="10161.12" r="80"/> <!-- W NWAF 2 Barracks-->
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4937.14" z="10446.4" r="80"/> <!-- NWAF E Entrance from Grishino-->
-		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="12" x="4214.18" z="11041.8" r="90"/> <!-- N NWAF Tents-->
-		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="10" x="4446.22" z="10838.75" r="90"/> <!-- NWAF Industrial by 1 barracks-->
-		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="10" x="4132.69" z="10550.01" r="80"/> <!-- W NWAF Prison by 1 barracks-->
-		<zone name="InfectedArmy" smin="8" smax="8" dmin="10" dmax="14" x="4567.26" z="9528.69" r="80"/> <!-- SW NWAF Military Compound-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="12" x="4214.18" z="11041.8" r="90"/> <!-- N NWAF Tents-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4446.22" z="10838.75" r="90"/> <!-- NWAF Industrial by 1 barracks-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4132.69" z="10550.01" r="80"/> <!-- W NWAF Prison by 1 barracks-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="14" x="4567.26" z="9528.69" r="80"/> <!-- SW NWAF Military Compound-->
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="12" x="4007.14" z="11843.6" r="80"/> <!-- Far N of NWAF Barracks | BEGIN ADDITIONAL MILITARY SPAWNS | -->
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="8" x="3999.01" z="11806.11" r="80"/> <!-- Far N of NWAF Barracks-->
-		<zone name="InfectedArmy" smin="5" smax="5" dmin="10" dmax="12" x="4494.83" z="9577.30" r="100"/> <!-- SW NWAF compound W Side-->
-		<zone name="InfectedArmy" smin="7" smax="7" dmin="10" dmax="12" x="4625.11" z="9594.80" r="100"/> <!-- SW NWAF compound E Side-->
-		<zone name="InfectedArmy" smin="7" smax="7" dmin="10" dmax="12" x="4559.48" z="9660.43" r="100"/> <!-- SW NWAF compound N Side-->
-		<zone name="InfectedArmy" smin="7" smax="7" dmin="10" dmax="8" x="4219.70" z="10350.21" r="70"/> <!-- W NWAF 1 Barracks-->
-		<zone name="InfectedArmy" smin="7" smax="7" dmin="10" dmax="10" x="5058.22" z="9823.76" r="90"/> <!-- SE NWAF 2 Barracks-->
-		<zone name="InfectedArmy" smin="4" smax="4" dmin="10" dmax="10" x="4752.46" z="10619.03" r="100"/> <!-- E NWAF 1 Barracks /garages-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="12" x="4494.83" z="9577.30" r="100"/> <!-- SW NWAF compound W Side-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="12" x="4625.11" z="9594.80" r="100"/> <!-- SW NWAF compound E Side-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="12" x="4559.48" z="9660.43" r="100"/> <!-- SW NWAF compound N Side-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="8" x="4219.70" z="10350.21" r="70"/> <!-- W NWAF 1 Barracks-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="5058.22" z="9823.76" r="90"/> <!-- SE NWAF 2 Barracks-->
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="10" x="4752.46" z="10619.03" r="100"/> <!-- E NWAF 1 Barracks /garages-->
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="4048.11" z="10922.85" r="70"/> <!-- NWAF Plane Crash-->
         <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="8" x="11932.61" z="12492.50" r="120"/> <!-- NEAF Airstrip-->
-        <zone name="InfectedArmy" smin="3" smax="5" dmin="5" dmax="10" x="11861.64" z="12478.40" r="100"/> <!-- NEAF ATC-->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="10" x="11861.64" z="12478.40" r="100"/> <!-- NEAF ATC-->
         <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="14" x="4891.49" z="2463.09" r="100"/> <!-- Balota terminal-->
         <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="10" x="5245.422" z="2178.55" r="80"/> <!-- Balota Far East Camo Towers-->
         <zone name="InfectedArmy" smin="0" smax="0" dmin="6" dmax="12" x="5079.422" z="2295.55" r="60"/> <!-- Balota Military Tents SE of Terminal-->
@@ -255,13 +255,13 @@
 		<zone name="InfectedIndustrial" smin="0" smax="0" dmin="4" dmax="10" x="10421.82" z="2507.81" r="70"/> <!-- Elektro Power Plant--><!-- セーフ -->
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="7" x="13376.80" z="6084.12" r="80"/> <!-- Solnechniy Quarry Factories-->
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="4" dmax="8" x="13105" z="7095" r="70"/> <!-- Solnichniy Factory-->
-        <!--<zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="6" x="12295" z="9110" r="70"/>--> <!-- Berezino Farms-->
+        <zone name="InfectedIndustrial" smin="0" smax="0" dmin="2" dmax="6" x="12295" z="9110" r="70"/>--> <!-- Berezino Farms-->
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="3" dmax="8" x="12791.54" z="9672.58" r="80"/> <!-- Middle of Lumber Mill Industrial-->
     </territory>
     <territory color="4287731209">
         <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="12210" z="9735" r="150"/>
         <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="12725.8" z="9847.21" r="140"/>
-        <!--<zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="11949.7" z="9100.93" r="180"/>-->
+        <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="11949.7" z="9100.93" r="180"/>
         <zone name="InfectedCityTier1" smin="0" smax="0" dmin="2" dmax="5" x="12168.3" z="9477.21" r="100"/>
         <zone name="InfectedCityTier1" smin="0" smax="0" dmin="5" dmax="10" x="12888.6" z="10074.3" r="130"/>
         <zone name="InfectedCityTier1" smin="0" smax="0" dmin="2" dmax="5" x="12655.8" z="9504.71" r="100"/>
@@ -392,7 +392,7 @@
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="13503.8" z="12142.5" r="100"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="10931.2" z="9105" r="100"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="12608.6" z="4393.93" r="90"/>
-      <!--  <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="13267.5" z="3955" r="100"/>-->
+		<zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="13267.5" z="3955" r="100"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="12858.9" z="4441.43" r="90"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="589.286" z="5427.86" r="80"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="535.714" z="5262.86" r="80"/>
@@ -446,7 +446,7 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="10713.47" z="8096.12" r="100"/> <!-- N Polana By Church-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="13" x="2739.09" z="9972.27" r="100"/> <!-- Lopatino Center of Village-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="2201.42" z="11117.30" r="100"/> <!-- Vavilovo By Water pump-->
-        <!-- <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="11210.27" z="14375.69" r="80"/> Novodmitrovsk SW Factory Areas-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="11210.27" z="14375.69" r="80"/> <!-- Novodmitrovsk SW Factory Areas-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="9773.63" z="8798.09" r="80"/> <!-- E Gorka-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4742.26" z="6772.94" r="100"/> <!-- Rogovo Center of Village-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4458" z="6417.86" r="80"/> <!-- Pogorevka Center of Village-->
@@ -582,7 +582,7 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="4" x="11753.6" z="12171.4" r="50"/> <!-- Far E Krasnostav-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="6525.26" z="3058.57" r="80"/> <!-- Cherno Near Roundabout-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="13" x="6193.13" z="2938.13" r="80"/> <!-- S Novoselki by Police Station-->
-		     <!--    <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="7" x="1370" z="4067.5" r="70"/>NW Pavlovo Farms--> 
+		<zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="7" x="1370" z="4067.5" r="70"/><!-- NW Pavlovo Farms--> 
         <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="729" z="4605" r="50"/> <!-- SE Svir-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="1" dmax="2" x="318" z="4608" r="50"/> <!-- SW Svir-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="8" x="909" z="2004" r="60"/> <!-- Bay Tikhaya Car Pile up-->
@@ -639,7 +639,7 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="10713.47" z="8096.12" r="100"/> <!-- N Polana By Church-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="13" x="2739.09" z="9972.27" r="100"/> <!-- Lopatino Center of Village-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="2201.42" z="11117.30" r="100"/> <!-- Vavilovo By Water pump-->
-        <!-- <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="11210.27" z="14375.69" r="80"/> Novodmitrovsk SW Factory Areas-->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="12" x="11210.27" z="14375.69" r="80"/> <!-- Novodmitrovsk SW Factory Areas-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="10" x="9773.63" z="8798.09" r="80"/> <!-- E Gorka-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4742.26" z="6772.94" r="100"/> <!-- Rogovo Center of Village-->
         <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="4458" z="6417.86" r="80"/> <!-- Pogorevka Center of Village-->
